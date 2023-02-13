@@ -19,7 +19,7 @@ function HomepageHeader() {
 					v{version}
 				</p>
   			<p>
-          Here at K9Sit.com, Our mission is to improve the lives of dogs by
+          Here at K9Sit.com, our mission is to improve the lives of dogs by
           helping them better understand how to interact with human society.
           We are always positive focused and treat each dog as an individual.
           Our approach keeps a small number of dogs in a residential household
