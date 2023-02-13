@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.0.9';
+const version = '1.0.10';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -17,6 +17,10 @@ function HomepageHeader() {
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p>
 					v{version}
+				</p>
+        <p>
+					Call or text Mark at <b>919-809-9328</b> to schedule dog training or
+          use the Rover application to book doggy day care and/or dog boarding.
 				</p>
   			<p>
           Here at K9Sit.com, our mission is to improve the lives of dogs by
