@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.0.0';
+const version = '1.0.1';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -18,14 +18,11 @@ function HomepageHeader() {
         <p>
 					v{version}
 				</p>
-				<p>
-          At K9 Site our primary focus is Dog Psychology.
-        </p>
   			<p>
-          Our mission here is to improve the lives of dogs by helping them
-          better understand how to interact with human society. We are
-          always positive focused and treat each dog as an individual. Our
-          approach keeps a small number of dogs in a residential household
+          Here at K9Sit.com, Our mission is to improve the lives of dogs by
+          helping them better understand how to interact with human society.
+          We are always positive focused and treat each dog as an individual.
+          Our approach keeps a small number of dogs in a residential household
           and neighborhood where we can work through issues such as leash
           problems, excessive barking, reactivity, aggression, anxiety, and
           doggy panic attacks. A psychologically healthy dog is a happy dog
@@ -56,6 +53,18 @@ export default function Home() {
       <main>
         <HomepageHeader />
         <HomepageFeatures />
+        <hr/>
+        <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a> 
+        <hr/>
+        <iframe 
+        width="100%"
+        height="881" 
+        src="https://www.youtube.com/embed/AxVMHu9aWJ0"
+        title="Rainy days with Tig"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+        </iframe>
+
       </main>
     </Layout>
   );

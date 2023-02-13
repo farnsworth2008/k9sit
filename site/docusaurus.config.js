@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/farnsworth2008/k9sit',
+            href: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
             label: 'Rover',
             position: 'right',
           },

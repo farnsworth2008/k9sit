@@ -26,7 +26,7 @@ const FeatureList = [
   {
     title: 'Reviews',
     to: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         Our customers love us!
