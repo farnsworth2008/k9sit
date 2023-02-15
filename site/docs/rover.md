@@ -4,10 +4,10 @@ sidebar_position: 1
 # Using Rover
 The following is useful information for using our <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover.com</a> services.
 
-## What to Expect
-- Your dog will have a safe and secure crate
-- Your dog will be walked several times
-- You will be provided photos documenting your dogs experience
+## How to Schedule
+Please book dog boarding and dog sitting services via <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover.com</a> site.
+
+<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a> 
 
 ## What to Bring
 - Clean and comfortable dog bedding in a style that fits in a dog crate
@@ -17,8 +17,14 @@ The following is useful information for using our <a href="https://www.rover.com
 - Food for each meal packaged in individual zip log bags
 - Any medicines that your dog needs
 
-## How to Schedule
+## What to Expect
+- Your dog will have a safe and secure crate
+- Your dog will be walked several times
+- You will be provided photos documenting your dogs experience
 
-Please book dog boarding and dog sitting services via <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover.com</a> site.
+## What Harness is Expected
+I require that all dogs have a harness that fits securely. Such as the following image.
 
-<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a> 
+A collar should also be supplied with name/phone, and the dog's rabies tags.
+
+<img src="/img/harness.jpg" />
