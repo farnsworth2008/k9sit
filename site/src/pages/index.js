@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.0.18';
+const version = '1.0.19';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -40,7 +40,7 @@ function HomepageHeader() {
           owners in personallized sessions.
         </p>
   			<p>
-          Call us at 919-809-9328 anytime between <b>9am and 7pm</b> to
+          Call us at <b>919-809-9328</b> anytime between <b>9am and 7pm</b> to
           get started.
         </p>
       </div>
