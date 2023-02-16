@@ -22,9 +22,13 @@ Please book dog boarding and dog sitting services via <a href="https://www.rover
 - Your dog will be walked several times
 - You will be provided photos documenting your dogs experience
 
-## What Harness is Expected
-I require that all dogs have a harness that fits securely. Such as the following image.
+## Video
 
-A collar should also be supplied with name/phone, and the dog's rabies tags.
-
-<img src="/img/harness.jpg" />
+<iframe 
+width="100%"
+height="881" 
+src="https://www.youtube.com/embed/vJLV2mqT1Iw"
+title="Rainy days with Tig"
+frameborder="0"
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+</iframe>
