@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 # Using Rover
 The following is useful information for using our <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover.com</a> services.
@@ -22,13 +22,16 @@ Please book dog boarding and dog sitting services via <a href="https://www.rover
 - Your dog will be walked several times
 - You will be provided photos documenting your dogs experience
 
+## Call me
+Call me at **919-809-9328** to discuss my **Rover.com** program.
+
 ## Video
 
 <iframe 
 width="100%"
 height="881" 
 src="https://www.youtube.com/embed/vJLV2mqT1Iw"
-title="Rainy days with Tig"
+title="Poop"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>

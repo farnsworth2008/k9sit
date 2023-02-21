@@ -6,34 +6,23 @@ locals {
   group = module.site_group
 }
 
-module "go_site" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "go"
-  tags        = local.group.tags
-}
-
-module "mark_site" {
-  count  = 0
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "mark"
-  tags        = local.group.tags
-}
-
 module "name" {
   source = "github.com/s3d-club/terraform-external-data-name-tags?ref=v1.1.0"
 
   context = "s3d-account"
   path    = path.module
   tags    = {}
+}
+
+module "root_site" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.3.42"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = null
+  tags        = local.group.tags
 }
 
 module "site" {

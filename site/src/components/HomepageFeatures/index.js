@@ -4,12 +4,20 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Dog Psychology Program',
-    to: '/docs/00',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Dog Training',
+    to: '/docs/dog-training',
+    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        We have a <a href="/docs/00">psychology</a> program to improve the lives of dogs and their owners.
+        <p>
+          We have a <a href="/docs/dog-training">dog training</a> program to improve the lives of dogs and their owners.
+        </p>
+        <p>
+          &nbsp;
+        </p>
+        <p>
+          Call me at <b>919-809-9328</b> to get started.
+        </p>
       </>
     ),
   },
@@ -26,7 +34,7 @@ const FeatureList = [
   {
     title: 'Reviews',
     to: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         Our customers love us!

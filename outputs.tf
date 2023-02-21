@@ -1,11 +1,6 @@
-output "go_site" {
+output "root_site" {
   sensitive = true
-  value     = module.go_site
-}
-
-output "mark_site" {
-  sensitive = true
-  value     = module.mark_site
+  value     = module.root_site
 }
 
 output "site" {

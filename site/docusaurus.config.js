@@ -10,7 +10,7 @@ const config = {
   favicon: 'img/favicon.ico',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  tagline: 'Dog Psychology',
+  tagline: 'Dog Training',
   title: 'K9 Sit Service',
   url: 'https://k9sit.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
@@ -51,9 +51,9 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: '00',
+            docId: 'dog-training',
             position: 'left',
-            label: 'Documents',
+            label: 'Pages',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -66,15 +66,6 @@ const config = {
       footer: {
         style: 'dark',
         links: [
-          {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Documents',
-                to: '/docs/00',
-              },
-            ],
-          },
           {
             title: 'Community',
             items: [
