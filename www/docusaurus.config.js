@@ -10,7 +10,7 @@ const config = {
   favicon: 'img/favicon.ico',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  tagline: 'Dog Training',
+  tagline: 'Dog Training World Wide',
   title: 'K9 Sit Service',
   url: 'https://k9sit.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
@@ -51,14 +51,14 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'dog-training',
+            docId: 'your-own-k9-sit-site',
             position: 'left',
-            label: 'Pages',
+            label: 'Services',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
-            label: 'Rover',
+            href: 'https://www.k9sit.com',
+            label: 'Locations',
             position: 'right',
           },
         ],
@@ -69,10 +69,6 @@ const config = {
           {
             title: 'Community',
             items: [
-              {
-                label: 'Rover',
-                href: 'https://www.rover.com/members/mark-f-high-quality-dog-training/'
-              },
               {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/profile.php?id=100090107385858'
@@ -87,8 +83,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'Rover',
-                href: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
+                label: 'K9Sit Locations',
+                href: 'https://www.k9sit.com/',
               },
             ],
           },

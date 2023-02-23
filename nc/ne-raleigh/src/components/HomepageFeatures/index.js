@@ -39,7 +39,7 @@ const FeatureList = [
       <>
         Our customers love us!
         
-        You can read our reviews on Rover <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover</a>.
+        You can read our reviews on <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover</a>.
       </>
     ),
   },

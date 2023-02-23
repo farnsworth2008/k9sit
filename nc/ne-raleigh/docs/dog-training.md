@@ -19,11 +19,18 @@ that benefits the dog and their humans for an entire lifetime. We can also
 teach old dogs new tricks and heal psychological scars. I care about the work
 that I do and will not sell you services you and your dog don't need.
 
-### $125.00 -- 45 minute K9 session
-Our 45 minute **Basic Training** K9 session is our most popular program. This
-is a chance for me to work with a dog and their owner to discuss the dog's
-behavior and coach the owner so they leave with the skills needed to improve
-their dog on their own. All dogs must complete our **Basic Training** program.
+### $125.00 -- K9 Training
+Our 45 minute **K9 Training** session is how all clients get started in my K9
+training programs. This is a chance for a dog and the dog's owner to meet with
+me in person. We will discuss the dog's current behaviors, goals, and coach
+both the dog and the dog's owner so they leave with the skills needed to
+improve.
+
+The K9 Training program is adapted for the needs of every dog/owner team.
+
+All dogs and their owners must complete this **K9 Training** program before
+participating in any other training services I provide. Please call us before
+or after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="125.00" />
@@ -42,7 +49,32 @@ their dog on their own. All dogs must complete our **Basic Training** program.
 
 <hr/>
 
-### $45.00 -- 20 minute K9 session
+### $25.00 -- 10 minute K9 Session
+Our ten  minute K9 session provides mini block of training that can be easily
+integrated with Rover pet sitting, walks, and/or doggy daycare.
+
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="amount" value="25.00" />
+<input type="hidden" name="item_name" value="10 Minute K9 Service" />
+<input type="submit" name="submit" value="Buy 10 minute K9 session" />
+
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
+<input type="hidden" name="business" value="farnsworth2008@gmail.com" />
+<input type="hidden" name="button_subtype" value="services" />
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="hidden" name="lc" value="US" />
+<input type="hidden" name="no_note" value="0" />
+<input type="hidden" name="shipping" value="0.00" />
+</form>
+
+<hr/>
+
+### $45.00 -- 20 minute K9 Session
 Our twenty minute K9 session provides a chance for your dog to keep their
 skills sharp and/or grow in a small way. These short sessions are conducted
 with me and one dog. The dog's owner is enencouraged to attend the training
@@ -50,7 +82,9 @@ session so I can share tips and explain how they can train the dog on their
 own. These sessions can also be included as add-ons for Rover pet sitting,
 walks, and/or doggy daycare.
 
-Our **Basic Training** is a prerequisite for this session.
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="45.00" />
@@ -70,10 +104,12 @@ Our **Basic Training** is a prerequisite for this session.
 ### $150.00 -- 90 minute K9 session
 Our 90 minute K9 session is for dogs and dog owners that want to improve their
 skills. These sessions are limited to a maximum of four dogs and four dog
-owners. Dog's complete our **Basic Training** course prior to enrolling in this
+owners. Dog's complete our **K9 Training** course prior to enrolling in this
 session.
 
-Our **Basic Training** is a prerequisite for this session.
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="150.00" />
@@ -97,7 +133,9 @@ amount of individual attention over the course of the training day. The dog's
 owner can join me for around 45 minutes at the end of the training day so we
 can discuss their dog's progress and future needs.
 
-Our **Basic Training** is a prerequisite for this session.
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="225.00" />
@@ -122,7 +160,9 @@ attention over the course of the training day. The dog's owner should join me
 for around 30 minutes at the end of the training day so we can discuss their
 dog's progress and future needs.
 
-Our **Basic Training** is a prerequisite for this session.
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="375.00" />
@@ -147,7 +187,9 @@ puppies, basic obedience, service dogs, etc. Many goals can be met with one or
 two custom packages.  Some goals such as becomming a North Carolina registered
 service animal will require multiple packages to achieve the required results.
 
-Our **Basic Training** is a prerequisite for this package.
+The <a href="#12500----k9-training">K9 Training</a> session is required
+before participating in this training services. Please call me before or
+after you buy so we can arrange the exact day and time for the service.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="675.00" />
@@ -172,7 +214,7 @@ Call me at **919-809-9328** to discuss how I can help you with your dog(s)
 <iframe 
 width="100%"
 height="881" 
-src="https://www.youtube.com/embed/AxVMHu9aWJ0"
+src="https://www.youtube.com/embed/WRU21BxG4JU"
 title="Rainy days with Tig"
 frameborder="0"
 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>

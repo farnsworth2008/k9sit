@@ -10,10 +10,11 @@ One of the services that I offer is to stop by your house check in on your dog
 and pick up poop in the dog's yard. This service can be provided on it's own or
 in conjuntion with dog training.
 
+<b>This service is only offered for houses within the 5401 Neighborhood of North
+Raleigh.</b>
+
 ### $45.00 -- 20 minute poop pickup session
 Our twenty minute K9 session poop pickup session allows us to clean most yards.
-This service is only offered for houses within the 5401 Neighborhood of North
-Raleigh.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="45.00" />
