@@ -14,19 +14,6 @@ const FeatureList = [
         </p>
       </>
     ),
-  },
-  {
-    title: 'Create your own K9 Sit Page(s)',
-    to: '/docs/your-own-k9-sit-site',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        Reach out to us to create your
-        own <a href="/docs/your-own-k9-sit-site">K9 Sit Site</a>. We will
-        provide you with pages on K9Sit.com where we handle all the hosting and
-        site editing so you can focus on your dog care services.
-      </>
-    ),
   }
 ];
 

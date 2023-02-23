@@ -1,7 +1,9 @@
 ---
 sidebar_position: 1
 ---
-# Establish your own K9Sit.com Site
+# Creating a K9Sit.com Site
+If you are a dog trainer or interested in becomming one please read on.
+
 My goal with this project is to improve the lives of dogs by providing a
 reasonablly priced services for dogs and their owners. The best outcome for
 dogs and their owners comes from developing **trust, respect, and love**

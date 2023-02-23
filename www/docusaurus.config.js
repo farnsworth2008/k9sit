@@ -50,13 +50,6 @@ const config = {
         },
         items: [
           {
-            type: 'doc',
-            docId: 'your-own-k9-sit-site',
-            position: 'left',
-            label: 'Services',
-          },
-          {to: '/blog', label: 'Blog', position: 'left'},
-          {
             href: 'https://www.k9sit.com',
             label: 'Locations',
             position: 'right',
@@ -73,6 +66,10 @@ const config = {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/profile.php?id=100090107385858'
               },
+              {
+                label: 'K9Sit Locations',
+                href: 'https://www.k9sit.com/',
+              },
             ],
           },
           {
@@ -83,8 +80,8 @@ const config = {
                 to: '/blog',
               },
               {
-                label: 'K9Sit Locations',
-                href: 'https://www.k9sit.com/',
+                label: 'Create your own K9Sit.com Page',
+                href: '/docs/your-own-k9-sit-site'
               },
             ],
           },
