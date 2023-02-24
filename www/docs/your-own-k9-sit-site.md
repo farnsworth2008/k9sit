@@ -2,56 +2,73 @@
 sidebar_position: 1
 ---
 # Creating a K9Sit.com Site
-If you are a dog trainer or interested in becomming one please read on.
+Please read on if you are a dog trainer or interested in becoming one.
 
-My goal with this project is to improve the lives of dogs by providing a
-reasonablly priced services for dogs and their owners. The best outcome for
-dogs and their owners comes from developing **trust, respect, and love**
-through better communication. With good communication perform well for their
-humans. The best way to build good communication with dogs is for dog owners
-to work with dog trainers who are members of a shared local community.
+My goal with the **K9Sit.com** project is to improve the lives of dogs and dog
+trainers by creating a reasonablly priced platform small dog training
+businesses.
 
-The K9Sit business model provides a platform with a simple cost structure and
-a low monthly fee. Currently **K9Sit.com** only provides only a few features
-but we are planning to add calendar schduling, reviews, and other stuff as
-soon as possible.
+The best outcome for dogs and their owners comes from developing **trust**,
+**respect**, and **love** through better communication. With good
+communication, dogs are happy and perform well for their humans. The best way
+to build good communication with dogs is for dog owners to work with local dog
+trainers who are members of their community.
 
-We charge **$100.00** to assit you in the creation off a new **K9Sit.com**
-site. After your site has been established we charge only **$20.00** per month
-to host your site. If you need us to edit your content pages or implement
-specific features for you we charge **$50.00** per hour for custom site work.
+The **K9Sit.com** business model will provide the online platform with a simple
+cost structure using a low monthly fee. Currently the **K9Sit.com** site only
+provides only a few features but we are planning to add calendar schduling,
+reviews management, and other features. Our early customers will help us define
+what features are the most important.
+
+Currently, new customers can contact us for free site creation while we are in
+the introductory period. The current K9Sit template is a Blog page plus up to
+four service pages. Typical service pages will be for items such as
+`Dog Training`, `Dog Grooming`, `Dog Walking`, `Dog Sitting`, etc. We are
+focused on dogs on the `k9sit.com` domain but plan to add additional domains
+for similar services targeting other types of pets.
+
+Becuase pet care is a business where providers and customers operate in small
+local areas we feel that the `k9sit.com` domain is ideal since it is easy for
+customers to remember. The top page at `www.k9sit.com` provides a directory of
+sites that exist in specific markets such as `ne-raleigh-nc.k9sit.com` for the
+service I provide in North East Raleigh. The new sites will be created using a
+similar naming pattern such as `sw-springfield-tx.k9sit.com`. Once a customer
+uses the top level page they can bookmark their prefered locations.
+
+Once we have the first ten sites defined, we plan to charge **$100.00** for the
+creation of **K9Sit.com** sites. After sites have been established we charge
+only a low monthly fee for hosting the content. If you need us to edit content
+pages or implement specific features for you we charge a low hourly fee for
+custom work. Your site will be a simple clean web presence that is free of
+advertisements. You can print business cards or order some from us. Over time
+the **K9Sit.com** brand will become grow similar to how Lyft, Uber, AirBnB, and
+Rover have become well known.
+
+Currently, the fee for hosting a site is only **$5 per month**. We do not
+charge any transaction fees for when customer book training services. This
+monthly fee is an introductory rate. The monthly fee will likely be increased
+next year but the fee will always be as low as possible while still allowing
+us to develop the features needed to provide the best possible online presence
+for our customers. Our web pages is a simple mobile friendly design that looks
+good on all major web browsers. We are already in the early planning stages for
+the creation of a **K9Sit** mobile app.
 
 Your site can share your phone numbers and links to your profiles for Facebook,
 LinkedIn, Rover, Youtube, and/or other sites. We will support you in adding
 buttons for PayPal and/or other services so your clients will be able to use
 your **K9Sit.com** pages to learn about your services and pay you without any
-transaction fees. Your site will also have your own Blog to help you engage
-with your clients and share YouTube videos.
+transaction fees. Your site will also have a blog to help you engage with your
+clients and share YouTube videos.
 
 The basic **K9Sit.com** site includes features similar to
 the <a href="https://ne-raleigh-nc.k9sit.com/">North East Raleigh, NC</a> site.
 Your site can have up to four service pages and six PayPal buttons while on the
-standard plan. You can also publish one blog entry per week.
+standard plan. You can also publish one blog entry per week. Over the next few
+months the structure of the site template will evolve with the input from our
+customer and what we learn from end users.
 
-Use the following button to buy the **K9Sit.com** Site Setup service. We will
-phone you after you pay for this service we can discuss your site content. You
-can also call me at 919-809-9328 to dicuss the **K9Sit.com** project. We are
-just now getting started with the project and as such we don't yet have any other
-
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="amount" value="100.00" />
-<input type="hidden" name="item_name" value="K9 Site Setup Fee" />
-<input type="submit" name="submit" value="Buy K9 Site Setup" />
-
-<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
-<input type="hidden" name="business" value="farnsworth2008@gmail.com" />
-<input type="hidden" name="button_subtype" value="services" />
-<input type="hidden" name="cmd" value="_xclick" />
-<input type="hidden" name="currency_code" value="USD" />
-<input type="hidden" name="lc" value="US" />
-<input type="hidden" name="no_note" value="0" />
-<input type="hidden" name="shipping" value="0.00" />
-</form>
+Call me at **919-809-9328** to dicuss the **K9Sit.com** project and I will
+create a site for your business.
 
 <hr/>
 

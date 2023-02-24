@@ -86,7 +86,7 @@ const config = {
             ],
           },
         ],
-        copyright: `K9 Sit`,
+        copyright: `K9Sit.com`,
       },
       prism: {
         theme: lightCodeTheme,

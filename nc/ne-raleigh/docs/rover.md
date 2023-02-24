@@ -7,7 +7,7 @@ The following is useful information for using our <a href="https://www.rover.com
 ## How to Schedule
 Please book dog boarding and dog sitting services via <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/">Rover.com</a> site.
 
-<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a> 
+<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>
 
 ## What to Bring
 - Clean and comfortable dog bedding in a style that fits in a dog crate
@@ -27,9 +27,9 @@ Call me at **919-809-9328** to discuss my **Rover.com** program.
 
 ## Video
 
-<iframe 
+<iframe
 width="100%"
-height="881" 
+height="881"
 src="https://www.youtube.com/embed/vJLV2mqT1Iw"
 title="Poop"
 frameborder="0"

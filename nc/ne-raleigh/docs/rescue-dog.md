@@ -64,6 +64,6 @@ relationship to succeed but may need help with cross species communication
 skills.
 
 ## Call me
-Call me at **919-809-9328** to discuss how I can help you with your dog(s). If
-your dog is a rescue from Wake County Animal Control I will provide you a
-**30% discount** for my **Basic Training** service.
+Call me at **919-809-9328** to discuss how I can help you with your dog(s).
+If your dog is a rescue made within the past thirty days I will give you a
+**30% discount** for my [Primary K9 Training](/docs/dog-training#12500----primary-k9-training-3-sessions) service.
