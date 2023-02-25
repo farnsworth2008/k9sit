@@ -3,12 +3,15 @@ output "root_site" {
   value     = module.root_site
 }
 
-output "site" {
-  sensitive = true
-  value     = module.site
-}
-
 output "site_group" {
   sensitive = true
   value     = module.site_group
+}
+
+output "sites" {
+  sensitive = true
+
+  value = {
+    www = module.www
+  }
 }
