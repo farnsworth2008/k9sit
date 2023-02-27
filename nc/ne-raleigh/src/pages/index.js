@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.2.0';
+const version = '1.2.2';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -34,13 +34,13 @@ export default function Home() {
         <HomepageFeatures />
         <hr/>
         <iframe
-        width="100%"
-        height="881"
-        src="https://www.youtube.com/embed/knmtMffM_ho"
-        title="Walk"
+        allowfullscreen
         frameborder="0"
-        allowfullscreen>
-        </iframe>
+        height="881"
+        src="https://www.youtube.com/embed/gwp0bJ_sAs8"
+        title="Walk"
+        width="100%"
+        />
         <hr/>
         <center>
         <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>

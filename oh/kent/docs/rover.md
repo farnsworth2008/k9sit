@@ -16,9 +16,6 @@ The following is useful information for using my <a href="https://www.rover.com/
 - Your dog will be walked several times
 - You will be provided photos documenting your dogs experience
 
-## Call me
-Call me at **919-809-9328** to discuss my **Rover.com** program.
-
 ## Video
 
 <iframe
