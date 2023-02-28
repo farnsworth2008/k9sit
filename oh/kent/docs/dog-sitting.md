@@ -5,7 +5,9 @@ sidebar_position: 1
 I am Isabel Farnsworth; I provide Dog Sitting services in my home in
 **Kent, OH**.
 
-You can book dog sitting services using [my Rover.com profile](https://www.rover.com/members/isabel-f-dog-sitting-in-my-home).
+Please book using my Rover Profile.
+
+<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>
 
 <hr/>
 

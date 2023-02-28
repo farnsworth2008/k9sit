@@ -59,7 +59,7 @@ with our [Rover.com](https://www.rover.com/members/mark-f-high-quality-dog-train
 
 Call or text me at **919-809-9328**.
 
-### $375.00 -- Custom K9 package
+### $675.00 -- Custom K9 package
 These custom packages are defined based on conversations with the dog owners
 so we can orient the training around what the dog needs at a given time.
 Packages can be built for puppies, basic obedience, service dogs, etc. Many
@@ -85,5 +85,5 @@ height="881"
 src="https://www.youtube.com/embed/WRU21BxG4JU"
 title="Rainy days with Tig"
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+allowfullscreen>
 </iframe>

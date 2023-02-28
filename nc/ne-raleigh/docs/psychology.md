@@ -39,5 +39,5 @@ height="881"
 src="https://www.youtube.com/embed/AxVMHu9aWJ0"
 title="Rainy days with Tig"
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+allowfullscreen>
 </iframe>
