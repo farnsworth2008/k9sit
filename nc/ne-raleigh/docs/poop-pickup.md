@@ -1,5 +1,5 @@
 ---
-sidebar_position: 5
+sidebar_position: 6
 ---
 # Poop Pickup
 It is important to pick up the poop in your yard. Dogs don't enjoy living in
@@ -16,8 +16,7 @@ North Raleigh.</b>
 ### $45.00 -- 20 minute poop pickup service 
 The twenty minute K9 poop pickup service allows us to clean most yards.
 
-Call or text me at **919-809-9328** to confirm date. I will send you an invoice
-for the service.
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
 <hr/>
 
@@ -27,5 +26,5 @@ height="881"
 src="https://www.youtube.com/embed/vJLV2mqT1Iw"
 title="Poop"
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+allowfullscreen>
 </iframe>

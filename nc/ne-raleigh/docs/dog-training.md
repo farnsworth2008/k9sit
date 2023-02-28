@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 2
 ---
 # Dog Training
 My goal with this project is to improve the lives of dogs by providing
@@ -27,7 +27,7 @@ relationship. Often with puppies, there is a benefit to having this program
 once when the puppy is between 10 weeks and five months old. Once the puppy is
 older we can do the adult version of this program.
 
-Call or text me at **919-809-9328**.
+Call or text **K9Sit.com** at **919-809-9328**.
 
 <hr/>
 
@@ -35,15 +35,15 @@ Call or text me at **919-809-9328**.
 These private training sessions allow me to work with you and/or your dog to
 maintain and grow skills. These short sessions are conducted with me, one dog,
 and one dog owner. In these sessions we work on specific issues for the dog.
-These sessions can also be included as add-ons for Rover pet sitting, walks,
-and/or doggy daycare.
+These sessions can also be included as add-ons for pet sitting, walks, and/or
+doggy daycare.
 
 The [Primary K9 Training](#12500----primary-k9-training-two-45-minute-sessions) package
 is required before participating in this training service. Please call so we
 can arrange the day and time for the service. These sessions can be integrated
-with our [Rover.com](https://www.rover.com/members/mark-f-high-quality-dog-training/) services.
+with our pet sitting, dog walking, or doggy daycare services.
 
-Call or text me at **919-809-9328**.
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
 ### $225.00 -- 6 hour K9 session
 Our six hour session is a great way to improve your dog. A dog in this program
@@ -55,11 +55,11 @@ can discuss their dog's progress and future needs.
 The [Primary K9 Training](#12500----primary-k9-training-two-45-minute-sessions) package
 is required before participating in this training service. Please call so we
 can arrange the day and time for the service. These sessions can be integrated
-with our [Rover.com](https://www.rover.com/members/mark-f-high-quality-dog-training/) services.
+with our pet sitting, dog walking, or doggy daycare services.
 
-Call or text me at **919-809-9328**.
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
-### $375.00 -- Custom K9 package
+### $675.00 -- Custom K9 package
 These custom packages are defined based on conversations with the dog owners
 so we can orient the training around what the dog needs at a given time.
 Packages can be built for puppies, basic obedience, service dogs, etc. Many
@@ -70,20 +70,17 @@ achieve the desired results.
 The [Primary K9 Training](#12500----primary-k9-training-two-45-minute-sessions) package
 is required before participating in this training service. Please call so we
 can arrange the day and time for the service. These sessions can be integrated
-with our [Rover.com](https://www.rover.com/members/mark-f-high-quality-dog-training/) services.
+with our pet sitting, dog walking, or doggy daycare services.
 
-Call or text me at **919-809-9328**.
-
-## Call me
-Call me at **919-809-9328** to discuss how I can help you and your dog(s).
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
 <hr/>
 
 <iframe
-width="100%"
-height="881"
-src="https://www.youtube.com/embed/WRU21BxG4JU"
-title="Rainy days with Tig"
+allowfullscreen
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-</iframe>
+height="881"
+src="https://www.youtube.com/embed/HzKueJud7GA"
+title="Rainy days with Tig"
+width="100%"
+/>

@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 5
 ---
 # Dog Psychology
 My goal with this project is to improve the lives of dogs by providing
@@ -28,8 +28,7 @@ Some high energy young dogs and/or working breeds also need weekly sessions.
 I can help you to better understand your dogs needs ater your dog spends some
 time with me at "doggy daycare".
 
-## Call me
-Call me at **919-809-9328** to discuss how I can help you with your dog(s).
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
 ## Video
 
@@ -39,5 +38,5 @@ height="881"
 src="https://www.youtube.com/embed/AxVMHu9aWJ0"
 title="Rainy days with Tig"
 frameborder="0"
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+allowfullscreen>
 </iframe>
