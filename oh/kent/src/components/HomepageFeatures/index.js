@@ -16,30 +16,8 @@ const FeatureList = [
           &nbsp;
         </p>
         <p>
-          Call me at <b>919-809-9328</b> to get started.
+          Call or text <b>K9Sit.com</b> at <b>919-809-9328</b> to schedule services.
         </p>
-      </>
-    ),
-  },
-  {
-    title: 'Rover Profile',
-    to: '/docs/rover',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
-    description: (
-      <>
-        We have a <a href="https://www.rover.com/members/isabel-f-dog-sitting-in-my-home">Rover Service</a> to provide dog boarding and doggy day care.
-      </>
-    ),
-  },
-  {
-    title: 'Reviews',
-    to: 'https://www.rover.com/members/isabel-f-dog-sitting-in-my-home',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
-    description: (
-      <>
-        Our customers love us!
-        
-        You can read our reviews on <a href="https://www.rover.com/members/isabel-f-dog-sitting-in-my-home">Rover</a>.
       </>
     ),
   },

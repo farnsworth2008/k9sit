@@ -1,13 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 # Dog Walking
 Any healthy dog can learn to walk well on the leash.
 
 If your dog is having trouble walking I can help you with training.
 
-## Call me
-Call me at **919-809-9328** to discuss how I can help you with your dog(s).
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.
 
 <hr/>
 

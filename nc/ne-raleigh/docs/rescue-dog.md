@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 7
 ---
 # Rescue Dogs
 Every dog that I have owned has been from a shelter or a direct rescue.
@@ -12,7 +12,7 @@ Dominican Republic.
 Pet adoption is a great thing to do but it is not always the best path for
 every family.
 
-Please call me at **919-809-9328** to discuss rescue dogs.
+Please Call **K9Sit.com** at **919-809-9328** to discuss rescue dogs.
 
 <hr />
 
@@ -60,7 +60,6 @@ Investing in our dog training services can help you and your rescue dog build
 the skills needed to communicate well. Your dog wants the relationship to
 succeed but may struggle to understand what humans expect. You also want the
 relationship to succeed but may need help with cross species communication
-skills.
+skills. Our services can help you with your rescue dog.
 
-## Call me
-Call me at **919-809-9328** to discuss how I can help you with your dog(s).
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.

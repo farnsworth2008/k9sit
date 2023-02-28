@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.2.0';
+const version = '1.3.2';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -43,9 +43,6 @@ export default function Home() {
         >
         </iframe>
         <hr/>
-        <center>
-        <a href="https://www.rover.com/members/isabel-f-dog-sitting-in-my-home/"><img src="/img/rover.jpg" /></a>
-        </center>
       </main>
     </Layout>
   );

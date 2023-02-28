@@ -2,20 +2,9 @@
 sidebar_position: 1
 ---
 # Dog Sitting
-I am Isabel Farnsworth; I provide Dog Sitting services in my home in
-**Kent, OH**.
 
-Please book using my Rover Profile.
+## Pricing
+- $20.00 per day -- 10 hour doggy daycare
+- $35.00 per day -- 24 hour dog sitting
 
-<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>
-
-<hr/>
-
-<iframe
-allowfullscreen
-frameborder="0"
-height="881"
-src="https://www.youtube.com/embed/vJLV2mqT1Iw"
-title="Poop"
-width="100%"
-/>
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.

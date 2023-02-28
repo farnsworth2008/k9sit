@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.2.2';
+const version = '1.3.7';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -41,6 +41,10 @@ export default function Home() {
         title="Walk"
         width="100%"
         />                
+        <hr/>
+        <center>
+        <img src="/img/zeus.jpg" width="400"></img>
+        </center>
       </main>
     </Layout>
   );

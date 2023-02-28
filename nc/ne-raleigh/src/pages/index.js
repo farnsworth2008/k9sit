@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.2.4';
+const version = '1.3.5';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -42,9 +42,6 @@ export default function Home() {
         width="100%"
         />
         <hr/>
-        <center>
-        <a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>
-        </center>
       </main>
     </Layout>
   );

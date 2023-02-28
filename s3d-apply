@@ -1,0 +1,5 @@
+#!/bin/bash
+
+nc/ne-raleigh/s3d-apply
+oh/kent/s3d-apply
+www/s3d-apply

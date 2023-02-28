@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 # Dog Sitting
 My goal with this project is to improve the lives of dogs by providing
@@ -8,6 +8,8 @@ dogs and their owners comes from developing **trust**, **respect**, and
 **love** through better communication. The investment you make in building
 communication with your dog will change both of your lives.
 
-Please book using my Rover Profile.
+## Pricing
+- $20.00 per day -- 10 hour doggy daycare
+- $35.00 per day -- 24 hour dog sitting
 
-<a href="https://www.rover.com/members/mark-f-high-quality-dog-training/"><img src="/img/rover.jpg" /></a>
+Call or text **K9Sit.com** at **919-809-9328** to schedule services.

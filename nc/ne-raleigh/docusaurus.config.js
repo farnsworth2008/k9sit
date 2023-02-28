@@ -70,12 +70,12 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Rover',
-                href: 'https://www.rover.com/members/mark-f-high-quality-dog-training/'
-              },
-              {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/profile.php?id=100090107385858'
+              },
+              {
+                label: 'K9Sit Locations',
+                href: 'https://www.k9sit.com/',
               },
             ],
           },
@@ -85,10 +85,6 @@ const config = {
               {
                 label: 'Blog',
                 to: '/blog',
-              },
-              {
-                label: 'Rover',
-                href: 'https://www.rover.com/members/mark-f-high-quality-dog-training',
               },
             ],
           },
