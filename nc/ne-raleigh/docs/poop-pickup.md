@@ -16,7 +16,9 @@ North Raleigh.</b>
 ### $45.00 -- 20 minute poop pickup service 
 The twenty minute K9 poop pickup service allows us to clean most yards.
 
-Call or text **K9Sit.com** at **919-809-9328** to schedule services.
+Call or text to schedule services.
+
+**919-809-9328**
 
 <hr/>
 

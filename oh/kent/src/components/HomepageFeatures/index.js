@@ -4,19 +4,37 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Dog Sitting',
-    to: '/docs/dog-sitting',
+    title: 'Dog Training',
+    to: '/docs/dog-training',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         <p>
-          We have a <a href="/docs/dog-sitting">dog sitting</a> service to help you out when you travel.
+          Our <a href="/docs/dog-training">dog training</a> program improves the lives of dogs and their owners.
         </p>
         <p>
           &nbsp;
         </p>
         <p>
-          Call or text <b>K9Sit.com</b> at <b>919-809-9328</b> to schedule services.
+          Call or text <b>919-809-9328</b> to schedule services.
+        </p>
+      </>
+    ),
+  },
+  {
+    title: 'Dog Sitting',
+    to: '/docs/dog-sitting',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        <p>
+          Our <a href="/docs/dog-sitting">dog sitting</a> program provides high quality dog care when you are a away from home.
+        </p>
+        <p>
+          &nbsp;
+        </p>
+        <p>
+          Call or text <b>919-809-9328</b> to schedule services.
         </p>
       </>
     ),

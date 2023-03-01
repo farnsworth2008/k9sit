@@ -40,16 +40,40 @@ site basis. The team at **K9Sit.com** takes care of all site edits and manages
 the initial phone and text interaction with clients. Each site has a calendar
 system to manage scheduled services.
 
-The value of the brand depends on the delivery of
-high quality services. All **K9Sit.com** member sites must agree to our
-policies and be approved by our oversight team. In addition to an interview
-with our oversight team all prospective **K9Sit.com** site must provide a
-references. We place a great deal of value on endorsements with from people
-working in animal rescue organizations that operate in various local community.
-We also require background checks. Interviews and reference checks are repeated
-every six months. The **K9Sit.com Oversight** team has the right to remove any
-site from our domain at any time if we determine a specific provider is not
-representing the quality standards for our brand.
+The value of the brand depends on the delivery of well defined high quality
+services. All **K9Sit.com** member service providers represent our brand and
+must be approved by our oversight team. The oversight team will interview all
+prospective **K9Sit.com** service providers. We will consider certification as
+we evaluate potential providers. We also place a great deal of value on the
+endorsement of people working in animal rescue organizations that operate
+in various local community. We also require background checks. Interviews and
+reference checks are repeated every six months. Applicants must participate in
+our online training and pass our rigorous tests before they are approved as
+services providers.
+
+Once a service provider is approved we will take care of all customer
+communications, billing, schduling, and review management in a way that allows
+our service providers to focus exclusivly on providing the best possible
+in-person experience for our clients and their dogs.
+
+We do not use kennel style facilities in our approach. We believe that family
+dogs should stay in family and residential environments while in our programs.
+Our service providers keep dogs in their own homes and treat them as visiting
+family members. Our daycare, overnight care, and training programs are
+conducted in a home settings where the dogs are comfortable and happy. This
+model avoids the stress that would otherwise occur when a dog who is normally
+a member of a family is placed in a large and inpersonal kennel. We find that
+this model helps dogs respond better to training.
+
+Our dog trainng, dog sitting, doggy daycare, and dog walking service providers
+will have not compete against each other. The K9Sit.com software will match
+clients with providers based on location and availability. The expecations for
+the services will be well defined in **K9Sit.com** online training and the
+prices will be set such that our service providers earn more vs. other home
+and/or mobile based online pet care marketplaces.
+
+The **K9Sit.com oversight** team will remove any site from our if we determine
+a provider does not represent the quality standards for our brand.
 
 Call or text **K9Sit.com** at **919-809-9328** to discuss the **K9Sit.com**
 project and schdule an interview if you would like to be part of this exciting
