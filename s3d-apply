@@ -1,5 +1,24 @@
 #!/bin/bash
 
-nc/ne-raleigh/s3d-apply
-oh/kent/s3d-apply
+build_site() {
+  (
+    rm -rf build
+    cp -r template/site build
+    cp "sites/$1/docusaurus.config.js" build
+    build/s3d-apply "s3://$2"
+  )
+}
+
+build_site nc/apex apex-nc-k9sit-com-camel-230303
+build_site nc/durham durham-nc-k9sit-com-osprey-230303
+build_site nc/chapel-hill chapel-hill-nc-k9sit-com-polecat-230303
+build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
+build_site nc/raleigh-nw nw-raleigh-nc-k9sit-com-jackass-230302
+build_site nc/raleigh-se se-raleigh-nc-k9sit-com-termite-230302
+build_site nc/raleigh-sw sw-raleigh-nc-k9sit-com-loon-230302
+build_site nc/wake-forest wake-forest-k9sit-com-shrimp-230302
+build_site oh/kent kent-oh-k9sit-com-macaw-230224
+
 www/s3d-apply
+
+rm -rf build

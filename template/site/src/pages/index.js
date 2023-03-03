@@ -34,17 +34,14 @@ export default function Home() {
         <HomepageFeatures />
         <hr/>
         <iframe
-        allowfullscree
+        allowfullscreen
         frameborder="0"
         height="881"
         src="https://www.youtube.com/embed/ruqarQifs-0"
         title="Walk"
         width="100%"
-        />                
+        />
         <hr/>
-        <center>
-        <img src="/img/zeus.jpg" width="400"></img>
-        </center>
       </main>
     </Layout>
   );

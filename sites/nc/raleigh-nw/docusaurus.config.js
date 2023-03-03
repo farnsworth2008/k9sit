@@ -10,8 +10,8 @@ const config = {
   favicon: 'img/favicon.ico',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  tagline: 'Dog Training World Wide',
-  title: 'K9 Sit',
+  tagline: 'North West Raleigh, NC',
+  title: 'K9 Sit -- North West Raleigh, NC',
   url: 'https://k9sit.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
   projectName: 'k9sit', // Usually your repo name.
@@ -50,6 +50,13 @@ const config = {
         },
         items: [
           {
+            type: 'doc',
+            docId: 'dog-training',
+            position: 'left',
+            label: 'Services',
+          },
+          {to: '/blog', label: 'Blog', position: 'left'},
+          {
             href: 'https://www.k9sit.com',
             label: 'Locations',
             position: 'right',
@@ -76,8 +83,8 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Create your own K9Sit.com Page',
-                href: '/docs/your-own-k9-sit-site'
+                label: 'Blog',
+                to: '/blog',
               },
             ],
           },

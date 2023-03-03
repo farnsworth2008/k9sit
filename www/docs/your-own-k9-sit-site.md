@@ -2,10 +2,11 @@
 sidebar_position: 1
 ---
 # The K9Sit.com Platform
-My goal with the **K9Sit.com** project is to improve the lives of dogs by
-creating a platform that helps dog owners find the very best service providers.
-**K9Sit.com** service providers provide high quality services for dog sitting,
-dog walking, doggy daycare, dog grooming, and dog training.
+K9Sit.com is a company with a mission to improve the lives of dogs and their
+owners by providing reasonablly priced services for dogs and their owners.
+The best outcome for dogs and their owners comes from developing **trust**,
+**respect**, and **love** through better communication. The investment you
+make in building communication with your dog will change both of your lives.
 
 The best outcome for dogs and their owners comes from developing **trust**,
 **respect**, and **love** through better communication. With good
@@ -37,8 +38,8 @@ The basic **K9Sit.com** site includes features similar to the
 [North East Raleigh, NC](https://ne-raleigh-nc.k9sit.com/) site. You can
 publish up to one blog entry per week. The fee structure is defined on a per
 site basis. The team at **K9Sit.com** takes care of all site edits and manages
-the initial phone and text interaction with clients. Each site has a calendar
-system to manage scheduled services.
+the phone and text interactions with clients. Each site has a calendar system
+to manage scheduled services.
 
 The value of the brand depends on the delivery of well defined high quality
 services. All **K9Sit.com** member service providers represent our brand and
@@ -56,24 +57,24 @@ communications, billing, schduling, and review management in a way that allows
 our service providers to focus exclusivly on providing the best possible
 in-person experience for our clients and their dogs.
 
-We do not use kennel style facilities in our approach. We believe that family
-dogs should stay in family and residential environments while in our programs.
-Our service providers keep dogs in their own homes and treat them as visiting
-family members. Our daycare, overnight care, and training programs are
-conducted in a home settings where the dogs are comfortable and happy. This
-model avoids the stress that would otherwise occur when a dog who is normally
-a member of a family is placed in a large and inpersonal kennel. We find that
-this model helps dogs respond better to training.
+We do not warehouse style kennel style facilities in our approach. We believe
+that family dogs should be in residential family environments while in our
+programs. Our service providers keep dogs in their own homes and treat them as
+visiting guests. Our daycare, overnight care, and training programs are
+conducted in home and neighborhood settings where the dogs are comfortable and
+happy. This model avoids the stress that would otherwise occur when a dog who
+is normally a member of a family is placed in a large and inpersonal kennel. We
+find that this model helps dogs respond better to training.
 
-Our dog trainng, dog sitting, doggy daycare, and dog walking service providers
-will have not compete against each other. The K9Sit.com software will match
+Our dog training, dog sitting, doggy daycare, and dog walking service providers
+will have not compete against each other. The **K9Sit.com** software will match
 clients with providers based on location and availability. The expecations for
 the services will be well defined in **K9Sit.com** online training and the
 prices will be set such that our service providers earn more vs. other home
 and/or mobile based online pet care marketplaces.
 
-The **K9Sit.com oversight** team will remove any site from our if we determine
-a provider does not represent the quality standards for our brand.
+The **K9Sit.com oversight** team will remove any service provider from our
+system if they are not representing our high quality standards.
 
 Call or text **K9Sit.com** at **919-809-9328** to discuss the **K9Sit.com**
 project and schdule an interview if you would like to be part of this exciting
@@ -82,9 +83,7 @@ new brand.
 <hr/>
 
 <iframe
-allowfullscreen
-frameborder="0"
-height="881"
+allowfullscreen 
 src="https://www.youtube.com/embed/knmtMffM_ho"
 title="Rainy days with Tig"
 width="100%"

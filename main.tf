@@ -6,23 +6,45 @@ locals {
   group = module.site_group
 }
 
-module "kent-oh" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "kent-oh"
-  tags        = local.group.tags
-}
-
 module "name" {
   source = "github.com/s3d-club/terraform-external-data-name-tags?ref=v1.1.0"
 
   context = "s3d-account"
   path    = path.module
   tags    = {}
+}
+
+module "nc_apex" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "apex-nc"
+  tags        = local.group.tags
+}
+
+module "nc_chapel_hill" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "chapel-hill-nc"
+  tags        = local.group.tags
+}
+
+module "nc_durham" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "durham-nc"
+  tags        = local.group.tags
 }
 
 module "nc_raleigh_ne" {
@@ -33,6 +55,61 @@ module "nc_raleigh_ne" {
   favicon     = null
   kms_key_arn = null
   name        = "ne-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_raleigh_nw" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "nw-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_raleigh_se" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "se-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_raleigh_sw" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "sw-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_wake_forest" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "wake-forest"
+  tags        = local.group.tags
+}
+
+module "oh_kent" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "kent-oh"
   tags        = local.group.tags
 }
 
