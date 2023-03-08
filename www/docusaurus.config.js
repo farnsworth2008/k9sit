@@ -78,15 +78,6 @@ const config = {
               },
             ],
           },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'The K9Sit.com Model',
-                href: '/docs/k9-sit-model'
-              },
-            ],
-          },
         ],
         copyright: `K9Sit.com`,
       },
