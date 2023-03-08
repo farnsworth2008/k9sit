@@ -25,6 +25,17 @@ module "nc_apex" {
   tags        = local.group.tags
 }
 
+module "nc_cary" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "cary-nc"
+  tags        = local.group.tags
+}
+
 module "nc_chapel_hill" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
@@ -99,17 +110,6 @@ module "nc_wake_forest" {
   favicon     = null
   kms_key_arn = null
   name        = "wake-forest"
-  tags        = local.group.tags
-}
-
-module "oh_kent" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "kent-oh"
   tags        = local.group.tags
 }
 

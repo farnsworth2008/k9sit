@@ -62,6 +62,10 @@ succeed but may struggle to understand what humans expect. You also want the
 relationship to succeed but may need help with cross species communication
 skills. Our services can help you with your rescue dog.
 
+At **K9Sit.com** we also offer a service where we will select a rescue dog from
+one of our local shelters and train the dog to the point where it passes our
+[Green Test](the-test) for half of the price we normally charge.
+
 Call or text to schedule services.
 
 **919-809-9328**
