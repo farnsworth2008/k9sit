@@ -24,7 +24,7 @@ const FeatureList = [
   {
     title: 'Dog Sitting',
     to: '/docs/dog-sitting',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
         <p>

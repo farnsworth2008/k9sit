@@ -7,11 +7,11 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   baseUrl: '/',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/favicon.svg',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   tagline: 'South East Raleigh, NC',
-  title: 'K9 Sit -- South East Raleigh, NC',
+  title: 'K9Sit.com -- South East Raleigh, NC',
   url: 'https://k9sit.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
   projectName: 'k9sit', // Usually your repo name.
@@ -43,10 +43,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Home',
+        title: 'K9Sit.com',
         logo: {
-          alt: 'K9 Sit Logo',
-          src: 'img/favicon.ico',
+          alt: 'K9Sit.com Logo',
+          src: 'img/favicon.svg',
         },
         items: [
           {
