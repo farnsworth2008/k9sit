@@ -42,7 +42,7 @@ reactivity, anxiety, and aggression. In some cases we are able to resolve
 immediately resolve minor and moderate issues. For issues that are complex
 we can create a plan and implement it with subsequent training sessions.
 
-Call or text to schedule services.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
@@ -64,7 +64,7 @@ After the second session the dog owner will be given a written report with
 their dog's status. If needed recommendations for future training will be
 described in this report.
 
-Call or text to schedule services.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
@@ -87,7 +87,7 @@ After the training day the dog owner will be given a written report with
 their dog's status. If needed recommendations for future training will be
 described in this report.
 
-Call or text schedule services.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
@@ -100,7 +100,7 @@ what your dog needs and how they learn.
 The [Primary K9 Training](#12500----primary-k9-training-two-45-minute-sessions) package
 is required before participating in this training service.
 
-Call or text to discuss or schedule services.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
@@ -108,13 +108,13 @@ Call or text to discuss or schedule services.
 Our two week board and train package is the best way to help your dog build a
 good psychological framework for communication. This package allows the
 trainers to spend enough time with your dog to work through issues to become
-a great neighborhood dog. At the conclusion of this training most dogs will be
+a great neighborhood dog. At the conclusion of this training the dog should be
 able to pass the [K9Sit.com Green Test](the-test).
 
 The [Primary K9 Training](#12500----primary-k9-training-two-45-minute-sessions) package
 is required before participating in this training service.
 
-Call or text to discuss or schedule services.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
