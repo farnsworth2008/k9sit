@@ -6,28 +6,6 @@ locals {
   group = module.site_group
 }
 
-module "go_site" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "go"
-  tags        = local.group.tags
-}
-
-module "mark_site" {
-  count  = 0
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "mark"
-  tags        = local.group.tags
-}
-
 module "name" {
   source = "github.com/s3d-club/terraform-external-data-name-tags?ref=v1.1.0"
 
@@ -36,13 +14,47 @@ module "name" {
   tags    = {}
 }
 
-module "site" {
+module "nc_raleigh_ne" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
 
   domain      = local.group.domain
   favicon     = null
   kms_key_arn = null
+  name        = "ne-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_raleigh_nw" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "nw-raleigh-nc"
+  tags        = local.group.tags
+}
+
+module "nc_wake_forest" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "wake-forest"
+  tags        = local.group.tags
+}
+
+module "root_site" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.3.42"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = null
   tags        = local.group.tags
 }
 
@@ -63,4 +75,14 @@ module "site_group" {
   kms_key_id    = null
   tags          = module.name.tags
   vpc_id        = data.aws_vpc.this.id
+}
+
+module "www" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  tags        = local.group.tags
 }

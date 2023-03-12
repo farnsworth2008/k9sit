@@ -1,19 +1,17 @@
-output "go_site" {
+output "root_site" {
   sensitive = true
-  value     = module.go_site
-}
-
-output "mark_site" {
-  sensitive = true
-  value     = module.mark_site
-}
-
-output "site" {
-  sensitive = true
-  value     = module.site
+  value     = module.root_site
 }
 
 output "site_group" {
   sensitive = true
   value     = module.site_group
+}
+
+output "sites" {
+  sensitive = true
+
+  value = {
+    www = module.www
+  }
 }

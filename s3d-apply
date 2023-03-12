@@ -1,0 +1,35 @@
+#!/bin/bash
+set -e
+
+build_site() {
+  mkdir -p work
+  rm -rf "work/$1"
+  mkdir -p "work/$1"
+  cp -r template/site "work/$1"
+  cp "sites/$1/docusaurus.config.js" "work/$1/site"
+  mkdir -p "sites/$1/blog"
+  mkdir -p "sites/$1/docs"
+  mkdir -p "sites/$1/static/img"
+  (
+    cd "sites/$1/blog"
+    echo "INFO: Adding blog entries for $1"
+    cp * "../../../../work/$1/site/blog" || true
+    cd "../docs"
+    echo "INFO: Adding docs for $1"
+    cp * "../../../../work/$1/site/docs" || true
+    cp ../../../../www/docs/* "../../../../work/$1/site/docs"
+    cd "../static/img"
+    echo "INFO: Adding images for $1"
+    pwd
+    cp ../../../../../www/static/img/* "../../../../../work/$1/site/static/img"
+  )
+  "work/$1/site/s3d-apply" "s3://$2"
+}
+
+build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
+build_site nc/raleigh-nw nw-raleigh-nc-k9sit-com-jackass-230302
+build_site nc/wake-forest wake-forest-k9sit-com-shrimp-230302
+
+# rm -rf work
+
+www/s3d-apply
