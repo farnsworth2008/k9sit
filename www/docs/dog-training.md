@@ -109,7 +109,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $2,50.00 -- Two Week Program
+### $2,150.00 -- Two Week Program
 Our two week program provides twice the training of our one week program. In
 this program many dogs will master a lot of the skills needed for communication
 and obedience.
@@ -170,10 +170,10 @@ Our six week board and train program for puppies is a great way to get a
 massive head start in creating an awesome dog. We recommend that puppies start
 this program at an age of around ten weeks because it is a cricial time in
 their development. Mistakes made in puppyhood are hard to repair so if you are
-not confident in your abilties and/or do not have the time for puppy care
-allowing one of our trainers to handle these first free weeks is a wise
-investment. The six week puppy and young adult program is not offered for any
-puppy older than fourteen weeks.
+not 100% confident in your abilties and/or do not have the time for puppy care
+allowing one of our trainers to handle these first three weeks after the puppy
+leaves a breeder program is a wise investment. The six week puppy and young
+adult program is not offered for any puppy older than fourteen weeks.
 
 While in this program, the puppy lives and travels with the trainer for three
 weeks starting sometime between eight and fourteen weeks of life. After
@@ -184,18 +184,25 @@ confidence. The puppy program includes positive oriented training delivered in
 a way that **never** places the puppy under stress. Puppies need **A LOT** of
 care and socilaization; in this program they get everything that is needed.
 When puppies get this type of dedicated care when they are young are much
-easier to train and do much better in life.
+easier to train and generally do better in life.
 
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
 ## 100% Guarantee
-We offer a **100% Guarantee** on all our training. If you are not completly
-satified with your **K9Sit.com** experience at the conclusion of our training we will provide
-free training on a adopted rescue dog from an area shelter or provide free
-training on a dog from an breeder who is part of the AKC's
-[Breeder of Merit Program](https://www.akc.org/breeder-programs/akc-breeder-of-merit-program/).
+If you are not completly satified with your **K9Sit.com** experience at the
+conclusion of our training we will provide free training on a replacement dog.
+**K9Sit.com** will provide training on the new dog at no cost provided it is an
+adopted rescue dog that **K9Sit.com** selects from an area shelter. The client
+also has the option of providing the replacement dog at their cost provided it
+is from the AKC's [Breeder of Merit Program](https://www.akc.org/breeder-programs/akc-breeder-of-merit-program/).
+If the client is using our six week puppy and young adult dog program we
+**guarantee** that the replacement puppy will pass the [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/).
+This guarantee requires that the origional animal be transfered to **K9Sit.com**
+where we will work to find it a new home.
+
+If the replacement dog does not pass the [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/) we will refund the full purchase price for all training and boarding costs.
 
 <hr/>
 
