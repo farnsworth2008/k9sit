@@ -101,7 +101,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $1,025.00 -- One Week Program
+### $1,580.00 -- One Week Program
 Our one week program is similar to our three day program but goes a but further
 in the work of building a framework for a dog's communication and obedience.
 
@@ -109,7 +109,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $2,150.00 -- Two Week Program
+### $2,450.00 -- Two Week Program
 Our two week program provides twice the training of our one week program. In
 this program many dogs will master a lot of the skills needed for communication
 and obedience.
@@ -139,7 +139,7 @@ Our four week program provides your dog with an entire month where they live
 with and work with one of our trainers. Any dog without health problems should
 can be expected to become an amazing dog in this program.
 
-### $5,675.00 -- Five Week Dog Program
+### $4,675.00 -- Five Week Dog Program
 Our five week program is the best way to help your dog build a great
 psychological framework for communication. This package allows the trainer
 to spend enough time with your dog to work through issues to become a great
@@ -165,7 +165,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $6,150.00 -- Six Week Puppy and Young Adult Dog Program
+### $4,925.00 -- Six Week Puppy and Young Adult Dog Program
 Our six week board and train program for puppies is a great way to get a
 massive head start in creating an awesome dog. We recommend that puppies start
 this program at an age of around ten weeks because it is a cricial time in
