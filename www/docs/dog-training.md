@@ -21,7 +21,7 @@ strange dogs. We find that our model helps dogs respond better to training.
 
 We also believe that our model of training family dogs and service animals in
 residential neighborhood settings, public areas, and dog parks is better then
-warehouse style kennels, rural farms, and/or inustrial parks. We do not want 
+warehouse style kennels, rural farms, and/or industrial parks. We do not want 
 our dogs kept in environments with non-stop barking, isolation, or loneliness
 because we have seen dog develop psycholoical problems from institutional
 living. Our goal is to create confident dogs with great communication skills
@@ -29,7 +29,7 @@ because we know our model produces outstanding results.
 
 ## Pricing
 
-### $125.00 -- Primary K9 Package (two 45 minute sessions)
+### $75.00 -- Primary K9 Package (two 45 minute sessions)
 Our **Primary K9 Training** package is an easy way to start working with us.
 
 The primary training package allows us to meet with you and your dog. When we
@@ -49,9 +49,10 @@ five months old. Once the puppy is older we can do the adult version of this
 program.
 
 In the primary K9 package we evaluate behavior problems such as leash
-reactivity, anxiety, and aggression. In some cases we are able to resolve
-immediately resolve minor and moderate issues. For issues that are complex
-we can create a plan and implement it with subsequent training sessions.
+reactivity, anxiety, and aggression. In some cases we are able to immediately
+resolve minor and moderate issues. For issues that are complex we can discuss
+approaches to address the problem with subsequent training sessions and/or
+exercises the owner can do on their own.
 
 Call or text us schedule services.
 
@@ -59,7 +60,7 @@ Call or text us schedule services.
 
 <hr/>
 
-### $175.00 -- One Day Program
+### $115.00 -- One Day Program
 Our one day program is a simple way to allow one of our trainers to work with
 your dog. This is a perfect way to refresh skills in a dog that has previously
 been trained but needs a bit of remedial work. For a well trained dog, this can
@@ -68,27 +69,26 @@ skills. A dog in this program spends the day at the home of a **K9Sit.com**
 trainer. The dog gets a huge amount of individual attention over the course of
 the day. The trainer engages the dog with exercise, play, and human bonding in
 addition to periods of rest alternated with focused training work. The trainer
-and the dog's will also work together to address the dog's needs.
+and the dog's owner will also work together to address the dog's needs.
 
-These sessions can be integrated with our pet sitting services.
-
-After the training day the dog owner will be provided a written status report. If
-needed, recommendations for future training will be described in this report.
+The dog's owner is also welcome to join the trainer for as much as three hours
+of the training time.
 
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $325.00 -- Two Day Program
+### $225.00 -- Two Day Program
 Our weekend program is great when you are out of town for a weekend and would
 like to ensure your dog is in a place where they will improve their life
-skills.
+skills. The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $450.00 -- Three Day Program
+### $350.00 -- Three Day Program
 Our three day program allows us to improve a dog's communication skills in a
 small block of training. This program can often be scheduled for a period of
 time when you are traveling. The work we perform in this program will be based
@@ -96,6 +96,9 @@ on what your dog needs and how they learn. In this short program, we can establi
 foundation that can later help the dog acheive a high level of confidence and
 obedience. For dogs that are already have good fundemental skills we can work
 to get them to that next level of performance.
+
+The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 
@@ -105,6 +108,9 @@ Call or text us to discuss or schedule services.
 Our one week program is similar to our three day program but goes a but further
 in the work of building a framework for a dog's communication and obedience.
 
+The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
+
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
@@ -113,6 +119,9 @@ Call or text us to discuss or schedule services.
 Our two week program provides twice the training of our one week program. In
 this program many dogs will master a lot of the skills needed for communication
 and obedience.
+
+The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 
@@ -129,6 +138,9 @@ unstable months of late puppyhood.
 
 In this program most dogs will master the skills needed for communication and
 obedience.
+
+The dog's owner is welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 
@@ -161,6 +173,9 @@ suffer from problems with neurotic anxiety problems, random agression,
 excessive barking, or other psychological issues. A dog with **confidence**
 will be obedient through love as opposed to fear and manipulation.
 
+The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
+
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
@@ -185,6 +200,9 @@ a way that **never** places the puppy under stress. Puppies need **A LOT** of
 care and socilaization; in this program they get everything that is needed.
 When puppies get this type of dedicated care when they are young are much
 easier to train and generally do better in life.
+
+The dog's owner is also welcome to join the trainer for as much as one
+hour per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 

@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.194.0';
+const version = '1.204.0';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -19,6 +19,12 @@ function HomepageHeader() {
 					v{version}
 				</p>
       </div>
+
+      <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4EWNJX975">
+      </script>
+
+      <script async src="/gtag.js">
+      </script>
     </header>
   );
 }
