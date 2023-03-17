@@ -32,12 +32,13 @@ family environments where they have between one and four other dogs living in a
 shared household with a trainer. Our network allows owners to work with a dog
 trainer who lives close to their home. Dogs that need _extra_ special care are
 work with the most experienced trainers in our network. Our business model puts
-all our trainers in touch with other lead, head, and principal trainers in our
-network. We keep owners updated daily and when possible encurage them to visit
-with their dog and their dog trainer often durring our board and train program.
-For dog's with very difficult **red zone** problems such as aggression with
-humans we charge an extra $100 per day because they can only be managed by
-our head and principal trainers.
+all our trainers in touch with other **lead**, **head**, and **principal**
+trainers in our network. We keep owners updated daily. We encurage owners to
+visit with their dog and their dog trainer often durring our board and train
+program. For dog's with very difficult **red zone** problems such as aggression
+with humans we charge an extra **$100 per day** for our board and stay programs
+because they can only be managed by our **head** and **principal** level
+trainers.
 
 ## Pricing
 
