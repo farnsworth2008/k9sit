@@ -25,28 +25,6 @@ module "nc_raleigh_ne" {
   tags        = local.group.tags
 }
 
-module "nc_raleigh_nw" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "nw-raleigh-nc"
-  tags        = local.group.tags
-}
-
-module "nc_wake_forest" {
-  count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
-
-  domain      = local.group.domain
-  favicon     = null
-  kms_key_arn = null
-  name        = "wake-forest"
-  tags        = local.group.tags
-}
-
 module "root_site" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.3.42"
