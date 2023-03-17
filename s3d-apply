@@ -27,9 +27,6 @@ build_site() {
 }
 
 build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
-build_site nc/raleigh-nw nw-raleigh-nc-k9sit-com-jackass-230302
-build_site nc/wake-forest wake-forest-k9sit-com-shrimp-230302
 
-# rm -rf work
-
+rm -rf work
 www/s3d-apply
