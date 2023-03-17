@@ -27,6 +27,18 @@ because we have seen dog develop psycholoical problems from institutional
 living. Our goal is to create confident dogs with great communication skills
 because we know our model produces outstanding results.
 
+Our growing network of part-time dog trainers allows dogs to be placed in small
+family environments where they have between one and four other dogs living in a
+shared household with a trainer. Our network allows owners to work with a dog
+trainer who lives close to their home. Dogs that need _extra_ special care are
+work with the most experienced trainers in our network. Our business model puts
+all our trainers in touch with other lead, head, and principal trainers in our
+network. We keep owners updated daily and when possible encurage them to visit
+with their dog and their dog trainer often durring our board and train program.
+For dog's with very difficult **red zone** problems such as aggression with
+humans we charge an extra $100 per day because they can only be managed by
+our head and principal trainers.
+
 ## Pricing
 
 ### $75.00 -- Primary K9 Package (two 45 minute sessions)
