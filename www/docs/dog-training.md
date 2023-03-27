@@ -199,7 +199,7 @@ Our four week program provides your dog with an entire month where they live
 with and work with one of our trainers. Any dog without health problems should
 can be expected to become an amazing dog in this program.
 
-### $2,750.00 -- Five Week Dog Program
+### $2,450.00 -- Five Week Dog Program
 Our five week program is the best way to help your dog build a great
 psychological framework for communication. This package allows the trainer
 to spend enough time with your dog to work through issues to become a great
