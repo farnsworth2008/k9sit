@@ -2,7 +2,10 @@
 sidebar_position: 4
 ---
 # Dog Walking
-Any healthy dog can learn to walk well on the leash.
+Any healthy dog can walk well on the leash. Good walks are critical for dogs
+to maintain mental and physical health. The **K9Sit.com** dog walk is a
+premium experience. Our walks integrate a bit of dog training into the
+activity of the walk.
 
 ### $30.00 -- 20 Minute Walk
 ### $40.00 -- 40 Minute Walk
@@ -45,11 +48,11 @@ Our service providers apply the following rules on every walk.
 2. The dog is provided water at the start of the walk and at least once every 30 minutes
 3. The walk is tracked via GPS
 4. The dog must wear a collar with a name tag, contact information, and rabbies tag
-5. No choke chain, prong, or electric shock collars are allowed _(vibrate and/or beep are allowed at in some special cases)_
-6. Leashes similar to the [Cesar Millan Slip Lead Leash™ - Slip Collar Training Lead](https://www.amazon.com/Cesar-Millan-Leash-Training-Regular/dp/B071PDPZK6) are used
-7. Dogs are never allowed to pull the service provider around _(The service provider will wait and/or change direction)_
-8. Dogs must stop and sit and before crossing streets
-9. Dogs are not allowed to lunge, bark, or growl at dogs or people _(If this occurs the dog must sit for 5 seconds per infraction)_
+5. Leashes similar to the [Cesar Millan Slip Lead Leash™ - Slip Collar Training Lead](https://www.amazon.com/Cesar-Millan-Leash-Training-Regular/dp/B071PDPZK6) are used
+6. Dogs are never allowed to pull the service provider around _(The service provider will wait and/or change direction)_
+7. Dogs must stop and sit and before crossing streets
+8. Dogs are not allowed to lunge, bark, or growl at dogs or people
+9. Painful tools such as prong and electric shock collars are **NEVER** used
 10. The dog have fun!
 
 <hr/>

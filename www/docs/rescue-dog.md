@@ -28,18 +28,23 @@ Please Call **K9Sit.com** at **919-809-9328** to discuss rescue dogs.
 2. You are forming a potentially lifelong relationship with an unknown dog
 3. It is hard to predict the dog's personality
 4. The dog might not have **the look** you desire
-5. It is hard to sort through all the options
+5. Some **rescue-mills** are profit seeking scams that are far worse then any **puppy-mill**
 
 ## The K9Sit.com recommendation
 Unless you have a large budget, specific needs, and are willing to spend a
-signifigant time researching various breeders I recommend adopting a dog from
+signifigant time researching various breeders, I recommend adopting a dog from
 a shelter. Many purebred dogs from breeders who are attempting to make a profit
 in a difficult marketplace suffer from inbreeding and genetic problems. Some
 breeders attempt to run **puppy-mills** and do not have the resources, skills,
 or temperament to produce good results. If you have the budget and do your
 research I fully support working with an AKC Registered breeder but be prepared
 to pay thousands of dollars and make sure you are not supporting a
-**puppy-mill**.
+**puppy-mill** or an **adoption-mill**. If some organization claim to be
+rescues but insists on spay/neuter earlier then twelve months avoid them. Do
+your research; the decision to spay/neuter earlier then twelve months will
+result in negative health outcomes. For some small breed animals spay/neuter at
+six months is okay but for large breed dogs it is critial to wait until the
+animal reaches full sexual mauturity.
 
 ## The Best Pet Adoption Plan
 To succeed at Pet Adoption visit animals at the shelter and take them for a
