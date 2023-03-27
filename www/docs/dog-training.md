@@ -35,10 +35,7 @@ special care are work with the most experienced trainers in our network. The
 **K9Sit.com** business model puts all our trainers in touch with other
 **lead**, **head**, and **principal** trainers in our network. We keep owners
 updated daily with photos and video. We encurage owners to visit with their dog
-and their dog trainer often during our board and train program. For dog's with
-very difficult **red zone** behavior problems such as aggression with humans we
-charge an extra **$100 per day** for our board and stay programs because they
-can only be managed by our **head** and **principal** level trainers.
+and their dog trainer often during our board and train program.
 
 ## Pricing
 
