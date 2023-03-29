@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import clsx from 'clsx';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.245.0';
+const version = '1.250.0';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -30,7 +30,6 @@ function HomepageHeader() {
 }
 
 export default function Home() {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
       title="K9Sit.com"
@@ -43,10 +42,10 @@ export default function Home() {
         allowfullscree
         frameborder="0"
         height="881"
-        src="https://www.youtube.com/embed/ruqarQifs-0"
+        src="https://www.youtube.com/embed/ruqarQifs-0?rel=0"
         title="Walk"
         width="100%"
-        />                
+        />
         <hr/>
         <center>
         <img src="/img/zeus.jpg" width="400"></img>

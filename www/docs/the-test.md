@@ -87,7 +87,7 @@ required before a dog is allowed to wear a green collar.
 <iframe
 allowfullscreen 
 height="881"
-src="https://www.youtube.com/embed/6OcUVazF-4M"
+src="https://www.youtube.com/embed/6OcUVazF-4M?rel=0"
 title="The Green Test"
 width="100%"
 />

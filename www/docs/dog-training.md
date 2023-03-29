@@ -276,7 +276,7 @@ If the replacement dog does not pass the [The AKC Canine Good Citizen™ test](h
 allowfullscreen
 frameborder="0"
 height="881"
-src="https://www.youtube.com/embed/HzKueJud7GA"
+src="https://www.youtube.com/embed/HzKueJud7GA?rel=0"
 title="Rainy days with Tig"
 width="100%"
 />

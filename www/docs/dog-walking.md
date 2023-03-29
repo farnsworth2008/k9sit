@@ -61,7 +61,7 @@ Our service providers apply the following rules on every walk.
 allowfullscreen
 frameborder="0"
 height="881"
-src="https://www.youtube.com/embed/knmtMffM_ho"
+src="https://www.youtube.com/embed/knmtMffM_ho?rel=0"
 title="Walking well on the Leash"
 width="100%"
 />

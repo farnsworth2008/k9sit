@@ -6,7 +6,7 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.246.0';
+const version = '1.249.0';
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
@@ -37,7 +37,7 @@ export default function Home() {
         allowfullscreen
         frameborder="0"
         height="881"
-        src="https://www.youtube.com/embed/ruqarQifs-0"
+        src="https://www.youtube.com/embed/ruqarQifs-0?rel=0"
         title="Walk"
         width="100%"
         />
