@@ -27,6 +27,7 @@ build_site() {
 }
 
 build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
+build_site fl/daytona-beach daytona-beach-fl-k9sit-com-seagull-230328
 
 rm -rf work
 www/s3d-apply

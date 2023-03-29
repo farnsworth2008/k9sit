@@ -4,6 +4,16 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
+    title: 'Daytona Beach, FL',
+    to: 'https://daytona-beach-fl.k9sit.com',
+    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    description: (
+      <>
+        <a href="https://daytona-beach-fl.k9sit.com">Daytona Beach, FL</a>.
+      </>
+    ),
+  },
+  {
     title: 'North East Raleigh, NC',
     to: 'https://ne-raleigh-nc.k9sit.com',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
@@ -30,6 +40,14 @@ function Feature({Svg, to, title, description}) {
     </div>
   );
 }
+
+/* <form>
+  <label>
+    Zip Code:
+    <input type="text" name="name" />
+  </label>
+  <input type="submit" value="Search" />
+</form> */
 
 export default function HomepageFeatures() {
   return (
