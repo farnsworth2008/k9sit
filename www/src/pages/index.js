@@ -6,18 +6,18 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.250.0';
+const version = '1.253.0';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <h1 className="hero__title">K9Sit.com</h1>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <p>
-					v{version}
-				</p>
+          v{version}
+        </p>
       </div>
 
       <script async src="https://www.googletagmanager.com/gtag/js?id=G-V4EWNJX975">
@@ -37,18 +37,18 @@ export default function Home() {
       <main>
         <HomepageHeader />
         <HomepageFeatures />
-        <hr/>
+        <hr />
         <iframe
-        allowfullscree
-        frameborder="0"
-        height="881"
-        src="https://www.youtube.com/embed/ruqarQifs-0?rel=0"
-        title="Walk"
-        width="100%"
+          allowfullscree
+          frameborder="0"
+          height="881"
+          src="https://www.youtube.com/embed/ruqarQifs-0?rel=0"
+          title="Walk"
+          width="100%"
         />
-        <hr/>
+        <hr />
         <center>
-        <img src="/img/zeus.jpg" width="400"></img>
+          <img src="/img/zeus.jpg" width="400"></img>
         </center>
       </main>
     </Layout>

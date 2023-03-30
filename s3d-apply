@@ -6,7 +6,13 @@ build_site() {
   rm -rf "work/$1"
   mkdir -p "work/$1"
   cp -r template/site "work/$1"
+
   cp "sites/$1/docusaurus.config.js" "work/$1/site"
+
+  if [ -e "sites/$1/components/HomepageFeatures/index.js" ]; then
+    cp "sites/$1/components/HomepageFeatures/index.js" "work/$1/site/src/components/HomepageFeatures/index.js"
+  fi
+
   mkdir -p "sites/$1/blog"
   mkdir -p "sites/$1/docs"
   mkdir -p "sites/$1/static/img"
@@ -16,8 +22,8 @@ build_site() {
     cp * "../../../../work/$1/site/blog" || true
     cd "../docs"
     echo "INFO: Adding docs for $1"
-    cp * "../../../../work/$1/site/docs" || true
     cp ../../../../www/docs/* "../../../../work/$1/site/docs"
+    cp * "../../../../work/$1/site/docs" || true
     cd "../static/img"
     echo "INFO: Adding images for $1"
     pwd
@@ -26,8 +32,9 @@ build_site() {
   "work/$1/site/s3d-apply" "s3://$2"
 }
 
-build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
 build_site fl/daytona-beach daytona-beach-fl-k9sit-com-seagull-230328
+build_site oh/kent kent-oh-k9sit-com-buffalo-230329
+build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
 
 www/s3d-apply
 rm -rf work

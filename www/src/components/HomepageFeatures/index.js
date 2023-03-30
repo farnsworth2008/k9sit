@@ -6,7 +6,7 @@ const LocationList = [
   {
     title: 'Daytona Beach, FL',
     to: 'https://daytona-beach-fl.k9sit.com',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/daytona-beach-fl.svg').default,
     description: (
       <>
         <a href="https://daytona-beach-fl.k9sit.com">Daytona Beach, FL</a>.
@@ -14,9 +14,19 @@ const LocationList = [
     ),
   },
   {
+    title: 'Kent, OH',
+    to: 'https://kent-oh.k9sit.com',
+    Svg: require('@site/static/img/kent-oh.svg').default,
+    description: (
+      <>
+        <a href="https://kent-oh.k9sit.com">Kent, OH</a>.
+      </>
+    ),
+  },
+  {
     title: 'North East Raleigh, NC',
     to: 'https://ne-raleigh-nc.k9sit.com',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/ne-raleigh-nc.svg').default,
     description: (
       <>
         <a href="https://ne-raleigh-nc.k9sit.com">North East Raleigh, NC</a>.
@@ -59,7 +69,15 @@ export default function HomepageFeatures() {
       <div className="container">
         <div className="row">
           <div className="search" style={{ paddingLeft: '10px', border: '1px' }}>
-            <form action="" className="form-data">
+            <form 
+                action=""
+                className="form-data"
+                onSubmit={e => {
+                  e.target[0].blur();
+                  e.preventDefault();
+                }}
+              >
+
               <label htmlFor="zip">What's your ZIP Code?</label>
               <br />
               <input
@@ -74,14 +92,14 @@ export default function HomepageFeatures() {
                 onChange={(event) => {
                   const { value } = event.target;
                   setZipcode(value.replace(/[^\d{5}]$/, "").substring(0, 5));
-                  if (value.startsWith("27")) {
-                    FilteredLocationList = [LocationList[1]];
-                  } else if (value.startsWith("28")) {
-                    FilteredLocationList = [LocationList[1]];
+                  if (value.startsWith("27") || value.startsWith("28")) {
+                    FilteredLocationList = [LocationList[2]];
                   } else if (value.startsWith("32")) {
                     FilteredLocationList = [LocationList[0]];
+                  } else if (value.startsWith("44")) {
+                    FilteredLocationList = [LocationList[1]];
                   } else {
-                    FilteredLocationList = [LocationList[0], LocationList[1]];
+                    FilteredLocationList = [LocationList[0], LocationList[1], LocationList[2]];
                   }
                   console.log(`ZIP Code changed: ${value}, ${zipcode}`);
                 }}

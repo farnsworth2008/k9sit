@@ -17,6 +17,17 @@ module "daytona_beach_fl" {
   tags        = local.group.tags
 }
 
+module "kent_oh" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "kent-oh"
+  tags        = local.group.tags
+}
+
 module "name" {
   source = "github.com/s3d-club/terraform-external-data-name-tags?ref=v1.1.0"
 
