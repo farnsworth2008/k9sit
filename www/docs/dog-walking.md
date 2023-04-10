@@ -2,10 +2,10 @@
 sidebar_position: 4
 ---
 # Dog Walking
-Any healthy dog can walk well on the leash. Good walks are critical for dogs
-to maintain mental and physical health. The **K9Sit.com** dog walk is a
-premium experience. Our walks integrate a bit of dog training into the
-activity of the walk.
+Any healthy dog can walk well on the leash. Good walks are critical for dogs to
+maintain mental and physical health. The **K9Sit.com** dog walk is a premium
+experience. Our walks integrate a bit of dog training into the activity of the
+walk.
 
 ### $30.00 -- 20 Minute Walk
 ### $40.00 -- 40 Minute Walk
@@ -26,21 +26,16 @@ Call or text to schedule services.
 <hr />
 
 ## Service Providers
-While our dog walking service is not formally part of our dog training service
-the service complements the training experience. Our dog walkers focus on a
-positive experience for dogs and never use harsh "corrections". When a
-**K9Sit.com** service provider walks a dog they do so using the techniques our
-trainers recommend for walking a dog.
-
-The service providers we use for walking dogs with our **lead dog trainers**
-help build and maintain their walking skills. We feel that the walk is a
-critical part of a dog's day. Bad behaviors are reinforcement or created when
-walks are not done well. In addition to providing your dog a bit of exercise
-and recreation our dog walking service helps your dog to be a good dog using
-consistent positive reinforcement. Since all our dog walking service providers
-have met with and been approved by one of our lead trainers you can be
-confident that a dog walk provided by **K9Sit.com** will be a great experience
-for your dog.
+Our dog walking service complements the train services we offer. Our dog
+walkers all meet reguarly with **K9Sit.com** trainers to discuss techniques and
+ensure they have an understanding of how we differ from other brands. We focus
+on a positive experience for dogs and never use harsh "corrections". When a
+**K9Sit.com** service provider walks a dog they integrate basic training with
+the walk. In addition to providing your dog a bit of exercise and recreation
+our dog walking service helps your dog to be a good dog using consistent
+positive reinforcement. Since all our dog walking service providers must be
+approved by one of our lead trainers you can be confident that a dog walk
+provided by **K9Sit.com** will be a great experience.
 
 Our service providers apply the following rules on every walk.
 

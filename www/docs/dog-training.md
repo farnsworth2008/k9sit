@@ -37,7 +37,15 @@ special care are work with the most experienced trainers in our network. The
 updated daily with photos and video. We encurage owners to visit with their dog
 and their dog trainer often during our board and train program.
 
+A **non-refundable** deposit of **$200.00** is required to schdule a dog for
+one of our **Board and Train** programs. Owners must also sign our
+[Board and Train Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
+and pay the full price of the program prior to the start of the first day of
+our Board and Train programs.
+
 ## Pricing
+We adjust the prices for our services on the 1st of each month based on a
+number of factors.
 
 ### $75.00 -- Primary K9 Package (two 45 minute sessions)
 Our **Primary K9 Training** package is an easy way to start working with us.
@@ -74,16 +82,16 @@ Call or text us schedule services.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="amount" value="75.00" />
-<input type="hidden" name="item_name" value="Primary K9 Package" />
-<input type="submit" name="submit" value="Pay for the $75 Primary K9 Package" />
 <input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
 <input type="hidden" name="business" value="farnsworth2008@gmail.com" />
 <input type="hidden" name="button_subtype" value="services" />
 <input type="hidden" name="cmd" value="_xclick" />
 <input type="hidden" name="currency_code" value="USD" />
+<input type="hidden" name="item_name" value="Primary K9 Package" />
 <input type="hidden" name="lc" value="US" />
 <input type="hidden" name="no_note" value="0" />
 <input type="hidden" name="shipping" value="0.00" />
+<input type="submit" name="submit" value="Pay for the $75 Primary K9 Package using PayPal" />
 </form>
 
 <hr/>
@@ -96,6 +104,12 @@ receives training focused individualized attention. The training day care
 program provides a way for an owner to work with a trainer while still keeping
 their dog in their own home and observing incremental results.
 
+In general, our training day care program is most benifical for dogs that have
+already participated in a longer board and train program or owners who are
+prepared to schedule several days of daycare. Training builds up over time such
+that when working with a new dog the first few hours or days are mostly a time
+for the dog and the trainer to get to know each other.
+
 Call or text us schedule services.
 
 **919-809-9328**
@@ -103,13 +117,13 @@ Call or text us schedule services.
 ### $125.00 -- One Day Program
 Our one day program is a simple way to allow one of our trainers to work with
 your dog. This is a perfect way to refresh skills in a dog that has previously
-been trained but needs a bit of remedial work. For a well trained dog, this can
-be an alterative to traditional doggie daycare and a way to improve their
-skills. A dog in this program spends the day at the home of a **K9Sit.com**
-trainer. The dog gets a huge amount of individual attention over the course of
-the day. The trainer engages the dog with exercise, play, and human bonding in
-addition to periods of rest alternated with focused training work. The trainer
-and the dog's owner will also work together to address the dog's needs.
+been trained but needs a bit of remedial work. This can be an alterative to
+traditional doggie daycare and a way to improve their skills. A dog in this
+program spends the day at the home of a **K9Sit.com** trainer. The dog gets a
+huge amount of individual attention over the course of the day. The trainer
+engages the dog with exercise, play, and human bonding in addition to periods
+of rest alternated with focused training work. The trainer and the dog's owner
+will also work together to address the dog's needs.
 
 The dog's owner is also welcome to join the trainer for as much as three hours
 of the training time.
@@ -134,11 +148,11 @@ small block of training. This program can often be scheduled for a period of
 time when you are traveling. The work we perform in this program will be based
 on what your dog needs and how they learn. In this short program, we can establish
 foundation that can later help the dog acheive a high level of confidence and
-obedience. For dogs that are already have good fundemental skills we can work
-to get them to that next level of performance.
+obedience. For dogs that have good fundemental skills we can work to get them
+to that next level of performance.
 
-The dog's owner is also welcome to join the trainer for as much as one
-hour per day training time if their schedule allows.
+The dog's owner is also welcome to join the trainer for as much as thirty
+minutes per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
 
@@ -255,20 +269,6 @@ hour per day training time if their schedule allows.
 Call or text us to discuss or schedule services.
 
 **919-809-9328**
-
-## 100% Guarantee
-If you are not completly satified with your **K9Sit.com** experience at the
-conclusion of our training we will provide free training on a replacement dog.
-**K9Sit.com** will provide training on the new dog at no cost provided it is an
-adopted rescue dog that **K9Sit.com** selects from an area shelter. The client
-also has the option of providing the replacement dog at their cost provided it
-is from the AKC's [Breeder of Merit Program](https://www.akc.org/breeder-programs/akc-breeder-of-merit-program/).
-If the client is using our six week puppy and young adult dog program we
-**guarantee** that the replacement puppy will pass the [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/).
-This guarantee requires that the origional animal be transfered to **K9Sit.com**
-where we will work to find it a new home.
-
-If the replacement dog does not pass the [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/) we will refund the full purchase price for all training and boarding costs.
 
 <hr/>
 

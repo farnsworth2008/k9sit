@@ -40,11 +40,14 @@ or temperament to produce good results. If you have the budget and do your
 research I fully support working with an AKC Registered breeder but be prepared
 to pay thousands of dollars and make sure you are not supporting a
 **puppy-mill** or an **adoption-mill**. If some organization claim to be
-rescues but insists on spay/neuter earlier then twelve months avoid them. Do
-your research; the decision to spay/neuter earlier then twelve months will
-result in negative health outcomes. For some small breed animals spay/neuter at
-six months is okay but for large breed dogs it is critial to wait until the
-animal reaches full sexual mauturity.
+rescues but insists on spay/neuter earlier then six months avoid them. Do your
+research; the decision to spay/neuter earlier then six months will result in
+negative health outcomes. For some small breed animals spay/neuter at six
+months is okay but for large breed dogs it is critial to wait until the animal
+reaches full sexual mauturity which for many dogs is only after 12, 18, or 24
+months. **NEVER** work with an **adoption-mill** that insits on neuter prior to
+six months. Regardless of your choice do your research and invest your time,
+money, and love into a dog with the potential for a healthy life.
 
 ## The Best Pet Adoption Plan
 To succeed at Pet Adoption visit animals at the shelter and take them for a

@@ -28,10 +28,10 @@ are able to demonstrate a basic level of control with the three basic commands.
 
 ## Blue Test -- Ten Minutes in a Crate
 The dog is placed in a comfortable crate and must remain for ten minutes
-without excessive barking as the humans leave the room. One or two soft barks
-are acceptable as per the discression of the test moderator. The dog fails this
-test if it engages in excessive barking or other destructive behaviors when in
-the crate.
+without excessive barking as the humans leave the room. A small amount of
+barking is acceptable as per the discression of the test moderator. The dog
+fails this test if it engages in excessive barking or other destructive
+behaviors when in the crate.
 
 If the dog passes **the blue test** it earns the right to wear a blue collar in
 our training program.
@@ -42,7 +42,11 @@ our training program.
 For the **Red Test**, the owner simply walks the dog for twenty minutes with
 a leash attached to the dogs collar or harnes using a zip tie that has an
 eighteen pound tensile strength rating. A secondary retention system must also
-be attached to keep the dog secure if the the zip-tie breaks.
+be attached to keep the dog secure if the the zip-tie breaks. All dogs taking
+the "red" test must walk with a basket muzzle in place durring the test. The
+dog should not resist the muzzle or paw at it's face in an attempt to remove
+the muzzle. We believe that every dog should be trained to be comfortable and
+confident when wearing a muzzle.
 
 We consider the test to be a failed attempt if the zip-tie breaks on the walk.
 
