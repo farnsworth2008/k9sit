@@ -17,17 +17,13 @@ build_site() {
   mkdir -p "sites/$1/docs"
   mkdir -p "sites/$1/static/img"
   (
-    cd "sites/$1/blog"
-    echo "INFO: Adding blog entries for $1"
-    cp * "../../../../work/$1/site/blog" || true
-    cd "../docs"
-    echo "INFO: Adding docs for $1"
-    cp ../../../../www/docs/* "../../../../work/$1/site/docs"
-    cp * "../../../../work/$1/site/docs" || true
-    cd "../static/img"
-    echo "INFO: Adding images for $1"
-    pwd
-    cp ../../../../../www/static/img/* "../../../../../work/$1/site/static/img"
+    cd "sites/$1"
+    echo "INFO: Adding content for $1"
+    cp ../../../www/blog/* "../../../work/$1/site/blog"
+    cp blog/* "../../../work/$1/site/blog" || true
+    cp ../../../www/docs/* "../../../work/$1/site/docs"
+    cp docs/* "../../../work/$1/site/docs" || true
+    cp ../../../www/static/img/* "../../../work/$1/site/static/img"
   )
   "work/$1/site/s3d-apply" "s3://$2"
 }

@@ -37,8 +37,8 @@ special care are work with the most experienced trainers in our network. The
 updated daily with photos and video. We encurage owners to visit with their dog
 and their dog trainer often during our board and train program.
 
-A **non-refundable** deposit of **$200.00** is required to schdule a dog for
-one of our **Board and Train** programs. Owners must also sign our
+A **non-refundable** **$200** deposit is required to schdule a dog for one of
+our **Board and Train** programs. Owners must also sign our
 [Board and Train Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
 and pay the full price of the program prior to the start of the first day of
 our Board and Train programs.
@@ -47,36 +47,23 @@ our Board and Train programs.
 We adjust the prices for our services on the 1st of each month based on a
 number of factors.
 
-### $75.00 -- Primary K9 Package (two 45 minute sessions)
-Our **Primary K9 Training** package is an easy way to start working with us.
+### $75.00 -- One Hour Private Training Session
+Our private training sessions provide an easy way for owners and their dogs to
+start working with us.
 
-The primary training package allows us to meet with you and your dog. When we
-meet we can discuss your dog's specific problems and make recommendations. In
-the 45 minute we can do a bit of train-the-human to help you understand the
-best ways to interact with your dog. We adapt our primary K9 package for the
-needs and goals of every dog and owner. We will discuss the dog's current
-behaviors as it compares with your goals. We can coach both you and your dog to
-at minimum point you in the right directions.
-
-The **Primary Package** includes two 45 minute sessions. These sessions
-delivered over two or three consecutive weeks. This allows our trainer to get
-to know you and your dog. For some dogs this is all that is needed while
-other dogs need an on-going trainer relationship. With puppies, there is a
-benefit to having this program once prior to five months old and again later
-once the puppy is an adult dog.
-
-In the primary K9 package we evaluate behavior problems such as leash
-reactivity, anxiety, and aggression. In some cases we are able to immediately
-resolve minor and moderate issues. For issues that are complex we can discuss
-approaches to address the problem with subsequent training sessions and/or
-exercises the owner can do on their own.
+The private training sessions allows us to meet with you and your dog. When we
+meet, we will discuss dog training in the context of your dog. This is a chance
+for you to learn how you can improve your dog's behavior on your own or with
+our various board and train packages. We can dig into your dog's specific
+issues. We adapt our primary K9 package for the needs and goals of every dog
+and owner.
 
 The primary package can be scheduled as often as needed as a way for dog owners
-to interact with dog trainers for private one-on-one mentoring. Each time the
-package is purchased the dog owner gets two sessions so we can define
-objectives and evaluate results.
+to interact with dog trainers for private one-on-one mentoring.
 
-Call or text us schedule services.
+Call or text us schedule services. These sessions can be conducted in the home
+of one of our dog trainers, your home, a public park, or another location where
+dogs are allowed.
 
 **919-809-9328**
 
@@ -87,11 +74,11 @@ Call or text us schedule services.
 <input type="hidden" name="button_subtype" value="services" />
 <input type="hidden" name="cmd" value="_xclick" />
 <input type="hidden" name="currency_code" value="USD" />
-<input type="hidden" name="item_name" value="Primary K9 Package" />
+<input type="hidden" name="item_name" value="Private Training Session" />
 <input type="hidden" name="lc" value="US" />
 <input type="hidden" name="no_note" value="0" />
 <input type="hidden" name="shipping" value="0.00" />
-<input type="submit" name="submit" value="Pay for the $75 Primary K9 Package using PayPal" />
+<input type="submit" name="submit" value="Pay for a Private Training Session" />
 </form>
 
 <hr/>
