@@ -19,6 +19,7 @@ build_site() {
   (
     cd "sites/$1"
     echo "INFO: Adding content for $1"
+    cp components/HomepageFeatures/* "../../../work/$1/site/src/components/HomepageFeatures" || true
     cp ../../../www/blog/* "../../../work/$1/site/blog"
     cp blog/* "../../../work/$1/site/blog" || true
     cp ../../../www/docs/* "../../../work/$1/site/docs"
@@ -28,9 +29,10 @@ build_site() {
   "work/$1/site/s3d-apply" "s3://$2"
 }
 
-build_site fl/daytona-beach daytona-beach-fl-k9sit-com-seagull-230328
+# build_site fl/daytona-beach daytona-beach-fl-k9sit-com-seagull-230328
 build_site oh/kent kent-oh-k9sit-com-buffalo-230329
 build_site nc/raleigh-ne ne-raleigh-nc-k9sit-com-llama-230222
+build_site other/anywhere anywhere-k9sit-com-bull-230414
 
 www/s3d-apply
 rm -rf work

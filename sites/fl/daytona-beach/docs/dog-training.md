@@ -35,26 +35,27 @@ special care are work with the most experienced trainers in our network. The
 **K9Sit.com** business model puts all our trainers in touch with other
 **lead**, **head**, and **principal** trainers in our network. We keep owners
 updated daily with photos and video. We encurage owners to visit with their dog
-and their dog trainer often during our training programs.
+and their dog trainer often during our **Live and Train** programs.
 
 A **non-refundable** **$200** deposit is required to schdule a dog for one of
 our **Live and Train** programs. Owners must also sign our
 [Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
 and pay the full price of the program prior to the start of the first day of
-our training programs.
+our **Live and Train** programs.
 
 ## Pricing
 We adjust the prices for our services on the 1st of each month based on a
 number of factors.
 
-### $75.00 -- One Hour Private Training Session
+### $100.00 -- One Hour Private Training Session
 Our private training sessions provide an easy way for owners and their dogs to
 start working with us.
 
 The private training sessions allows us to meet with you and your dog. When we
 meet, we will discuss dog training in the context of your dog. This is a chance
 for you to learn how you can improve your dog's behavior on your own or with
-our various training packages. We can dig into your dog's specific issues. We adapt our primary K9 package for the needs and goals of every dog
+our various **Live and Train** packages. We can dig into your dog's specific
+issues. We adapt our primary K9 package for the needs and goals of every dog
 and owner.
 
 The primary package can be scheduled as often as needed as a way for dog owners
@@ -82,7 +83,7 @@ dogs are allowed.
 
 <hr/>
 
-### $100.00 -- Training Day Care Program
+### $150.00 -- Training Day Care Program
 Our training day care program provides your dog with up to ten hours of doggie
 daycare combined with dog training. In this program the dog spends the day in
 the home of a **K9Sit.com** dog trainer. Over the course of the day the dog
@@ -91,16 +92,16 @@ program provides a way for an owner to work with a trainer while still keeping
 their dog in their own home and observing incremental results.
 
 In general, our training day care program is most benifical for dogs that have
-already participated in a longer training program or owners who are prepared to
-schedule several days of daycare. Training builds up over time such that when
-working with a new dog the first few hours or days are mostly a time for the
-dog and the trainer to get to know each other.
+already participated in a longer **Live and Train** program or owners who are
+prepared to schedule several days of daycare. Training builds up over time such
+that when working with a new dog the first few hours or days are mostly a time
+for the dog and the trainer to get to know each other.
 
 Call or text us schedule services.
 
 **919-809-9328**
 
-### $125.00 -- One Day Program
+### $200.00 -- One Day Program
 Our one day program is a simple way to allow one of our trainers to work with
 your dog. This is a perfect way to refresh skills in a dog that has previously
 been trained but needs a bit of remedial work. This can be an alterative to
@@ -118,7 +119,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $175.00 -- Two Day Program
+### $275.00 -- Two Day Program
 Our weekend program is great when you are out of town for a weekend and would
 like to ensure your dog is in a place where they will improve their life
 skills. The dog's owner is also welcome to join the trainer for as much as one
@@ -128,7 +129,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $250.00 -- Three Day Program
+### $350.00 -- Three Day Program
 Our three day program allows us to improve a dog's communication skills in a
 small block of training. This program can often be scheduled for a period of
 time when you are traveling. The work we perform in this program will be based
@@ -144,7 +145,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $475.00 -- Five Day Program
+### $600.00 -- Five Day Program
 The five day program allows training durring the work week or over a long
 weekend.
 
@@ -152,7 +153,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $650.00 -- One Week Program
+### $775.00 -- One Week Program
 Our one week program is similar to our three day program but goes a but further
 in the work of building a framework for a dog's communication and obedience.
 
@@ -163,7 +164,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $1,200.00 -- Two Week Program
+### $1,500.00 -- Two Week Program
 Our two week program provides twice the training of our one week program. In
 this program many dogs will master a lot of the skills needed for communication
 and obedience.
@@ -175,7 +176,7 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $1,750.00 -- Three Week Program
+### $2,150.00 -- Three Week Program
 Our three week program is a great programs for puppies and/or adult dogs. We do
 not recommend this intensive training for puppies in the window of time between
 six and ten months since that period is a time of growth and hormonal changes.
@@ -194,12 +195,12 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $2,200.00 -- Four Week Program
+### $2,825.00 -- Four Week Program
 Our four week program provides your dog with an entire month where they live
 with and work with one of our trainers. Any dog without health problems should
 can be expected to become an amazing dog in this program.
 
-### $2,450.00 -- Five Week Program
+### $3,500.00 -- Five Week Program
 Our five week program is the best way to help your dog build a great
 psychological framework for communication. This package allows the trainer
 to spend enough time with your dog to work through issues to become a great
@@ -228,9 +229,9 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### $3,250.00 -- Six Week Puppy and Young Adult Dog Program
-Our six week training program for puppies is a great way to get a massive head
-start in creating an awesome dog. We recommend that puppies start
+### $4,275.00 -- Six Week Puppy and Young Adult Dog Program
+Our six week **Live and Train** program for puppies is a great way to get a
+massive head start in creating an awesome dog. We recommend that puppies start
 this program at an age of around ten weeks because it is a cricial time in
 their development. Mistakes made in puppyhood are hard to repair so if you are
 not 100% confident in your abilties and/or do not have the time for puppy care

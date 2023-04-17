@@ -4,32 +4,42 @@ import styles from './styles.module.css';
 
 const LocationList = [
   {
-    title: 'Daytona Beach, FL',
-    to: 'https://daytona-beach-fl.k9sit.com',
-    Svg: require('@site/static/img/daytona-beach-fl.svg').default,
+    title: 'Anywhere',
+    to: 'https://anywhere.k9sit.com',
+    Svg: require('@site/static/site/airdale.svg').default,
     description: (
       <>
-        <a href="https://daytona-beach-fl.k9sit.com">Daytona Beach, FL</a>.
+        <a href="https://anywhere.k9sit.com">Anywhere, USA</a>
+      </>
+    ),
+  },
+  {
+    title: 'Daytona Beach, FL',
+    to: 'https://daytona-beach-fl.k9sit.com',
+    Svg: require('@site/static/site/beagle.svg').default,
+    description: (
+      <>
+        <a href="https://daytona-beach-fl.k9sit.com">Daytona Beach, FL</a>
       </>
     ),
   },
   {
     title: 'Kent, OH',
     to: 'https://kent-oh.k9sit.com',
-    Svg: require('@site/static/img/kent-oh.svg').default,
+    Svg: require('@site/static/site/basset.svg').default,
     description: (
       <>
-        <a href="https://kent-oh.k9sit.com">Kent, OH</a>.
+        <a href="https://kent-oh.k9sit.com">Kent, OH</a>
       </>
     ),
   },
   {
     title: 'North East Raleigh, NC',
     to: 'https://ne-raleigh-nc.k9sit.com',
-    Svg: require('@site/static/img/ne-raleigh-nc.svg').default,
+    Svg: require('@site/static/site/australian.svg').default,
     description: (
       <>
-        <a href="https://ne-raleigh-nc.k9sit.com">North East Raleigh, NC</a>.
+        <a href="https://ne-raleigh-nc.k9sit.com">North East Raleigh, NC</a>
       </>
     ),
   },
@@ -93,15 +103,16 @@ export default function HomepageFeatures() {
                   const { value } = event.target;
                   setZipcode(value.replace(/[^\d{5}]$/, "").substring(0, 5));
                   if (value.startsWith("27") || value.startsWith("28")) {
+                    FilteredLocationList = [LocationList[3]];
+                  } else if (value.startsWith("44")) {
                     FilteredLocationList = [LocationList[2]];
                   } else if (value.startsWith("32")) {
-                    FilteredLocationList = [LocationList[0]];
-                  } else if (value.startsWith("44")) {
                     FilteredLocationList = [LocationList[1]];
+                  } else if (value == "") {
+                    FilteredLocationList = LocationList;
                   } else {
-                    FilteredLocationList = [LocationList[0], LocationList[1], LocationList[2]];
+                    FilteredLocationList = [LocationList[0]];
                   }
-                  console.log(`ZIP Code changed: ${value}, ${zipcode}`);
                 }}
               />
             </form>

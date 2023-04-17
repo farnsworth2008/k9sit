@@ -6,6 +6,17 @@ locals {
   group = module.site_group
 }
 
+module "anywhere" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "anywhere"
+  tags        = local.group.tags
+}
+
 module "daytona_beach_fl" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"

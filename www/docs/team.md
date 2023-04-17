@@ -11,6 +11,7 @@ our programs.
 
 <table>
 
+<!--
 <tr>
 <td valign="top">
 <a href="https://www.facebook.com/mark.farnsworth.v2/"><img src="https://k9sit.com/krista-cote.png"  width="100%" /></a>
@@ -39,6 +40,7 @@ At **K9Sit.com**, our **CKO** has the final word on all issues related to dog
 training.
 </td>
 </tr>
+-->
 
 <tr>
 <td valign="top">
@@ -62,17 +64,19 @@ applications used in major hospital systems. In the past few years Mark was a
 key part of software development teams at LabCorp where he created important
 components for one of the first at-home **COVID** testing platform. Most
 recently Mark worked as a cloud computing expert for before starting
-**K9Sit.com**. His experience gives and skill is an asset as we the develop
-custom software that powers the **K9Sit.com** brand.
+**K9Sit.com**. His experience is an asset as we the develop custom software
+to power the **K9Sit.com** brand.
 
-Mark love's all types of technology including software and hardward for dog
-training. His own dog often has a lighted e-collar for off leash work where he
-uses the beep feature for positive reinforcement at a distance _(similar to
-clicker training)_. Mark is also inventing technology products that he and
-other trainers at **K9Sit.com** are working with.
+Mark loves working with and inventing technology such as hardward and software
+for dog training. His own dog often has a lighted e-collar for off leash work.
+He uses the beep feature of the collar for positive reinforcement at a distance
+_(similar to "clicker" training)_. Mark is also inventing technology products
+that he and other trainers at **K9Sit.com** will use.
 
-Mark works closely with candidates for our our open **CKO**
-_(Cheif K9 Officer)_ and other positions as we grow the company.
+You can often see Mark and his dog Tig riding together on his motorcycle.
+
+Mark works closely with candidates for our our open positions as we grow the
+company.
 
 </td>
 </tr>

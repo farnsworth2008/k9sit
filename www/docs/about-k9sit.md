@@ -68,28 +68,17 @@ All service at **K9Sit.com** exist in regional team structures.
 | Principal Trainer       | **Principal Trainers** set the direction of our company and work **Head Trainers** and **Lead Trainers** to develop our training programs.                                                                                                  |
 
 ## Prices, Fees, and Profit Sharing
-The services offered and fees charged in a region are defined by
-**Principal Trainers**. Individual **Principal Trainer** have oversight over
-the region they are responsible for. **10%** of the revenue from all
-**Head Trainers** is diverted to the **Principal Trainer** who as such is
-incentivized to help their **Head Trainers** succeed and resolve any problems
-that might negativly impact our brand in the region.
+Everyone at **K9Sit.com** has an interest in working to improve service
+delivery. The prices, fees, and structure of our services is defined by the
+**K9Sit.com** leadership team. The team several times once per week to discuss
+our brand, pricing, fees, and profit sharing.
 
-The work **Head Trainers** do in mentoring their **Lead Trainers** is critical
-to the success of customer engagements and as such **10%** of the revenue
-associated with every **Lead Trainer** goes to their **Head Trainer** who
-provides oversight and resolves problems for the team.
-
-**Lead Trainers** are often the people working directly with our customers. In
-some cases, **Lead Trainers** take on an **Apprentice** or **Assistant** to
-delegate some work while following the model where **10%** of the revenue
-associated with the service is diverted to the **Lead Trainer**. In other cases
-**Head**, and **Principal** trainers directly work with customers. At
-**K9Sit.com** we embrace the **gig-econnomy**. Our service providers are
-independent contractors who often have other jobs or in some cases are
-semi-retired. Our providers are not in warehouse style kennels and do not have
-long grueling workdays. At **K9Sit.com** people are doing the work because they
-love working with dogs. 
+Service providers recieve **90%** of the list price for any service they deliver.
+The remaining **10%** is used by **K9Sit.com** to cover general costs, promote
+the brand, and reward high performing service providers with bonuses. All
+service providers are encuraged to attend our weekly virtual finance meeting
+where we review financal issues and distribute payments to our service
+providers.
 
 ## How to Get Involved
 Call or text **K9Sit.com** at **919-809-9328** to discuss the **K9Sit.com**
