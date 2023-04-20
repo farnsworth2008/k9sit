@@ -6,17 +6,12 @@ import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
-const version = '1.267.0';
-
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <p className="hero__subtitle">{siteConfig.tagline}</p>
-        <p>
-          v{version}
-        </p>
       </div>
     </header>
   );

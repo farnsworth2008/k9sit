@@ -17,14 +17,58 @@ module "anywhere" {
   tags        = local.group.tags
 }
 
-module "daytona_beach_fl" {
+module "apex_nc" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
 
   domain      = local.group.domain
   favicon     = null
   kms_key_arn = null
-  name        = "daytona-beach-fl"
+  name        = "apex-nc"
+  tags        = local.group.tags
+}
+
+module "cary_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "cary-nc"
+  tags        = local.group.tags
+}
+
+module "charlotte_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "charlotte-nc"
+  tags        = local.group.tags
+}
+
+module "durham_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "durham-nc"
+  tags        = local.group.tags
+}
+
+module "greensboro_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "greensboro-nc"
   tags        = local.group.tags
 }
 
@@ -47,14 +91,14 @@ module "name" {
   tags    = {}
 }
 
-module "nc_raleigh_ne" {
+module "raleigh_nc" {
   count  = 1
   source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
 
   domain      = local.group.domain
   favicon     = null
   kms_key_arn = null
-  name        = "ne-raleigh-nc"
+  name        = "raleigh-nc"
   tags        = local.group.tags
 }
 
@@ -86,6 +130,17 @@ module "site_group" {
   kms_key_id    = null
   tags          = module.name.tags
   vpc_id        = data.aws_vpc.this.id
+}
+
+module "wake_forest_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "wake-forest-nc"
+  tags        = local.group.tags
 }
 
 module "www" {

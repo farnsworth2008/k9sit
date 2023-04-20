@@ -35,7 +35,7 @@ special care are work with the most experienced trainers in our network. The
 **K9Sit.com** business model puts all our trainers in touch with other
 **lead**, **head**, and **principal** trainers in our network. We keep owners
 updated daily with photos and video. We encurage owners to visit with their dog
-and their dog trainer often during our **Live and Train** programs.
+and their dog trainer often during our Live and Train program.
 
 A **non-refundable** **$200** deposit is required to schdule a dog for one of
 our **Live and Train** programs. Owners must also sign our
@@ -47,16 +47,16 @@ our **Live and Train** programs.
 We adjust the prices for our services on the 1st of each month based on a
 number of factors.
 
-### $100.00 -- One Hour Private Training Session
+### $100.00 -- One Hour Virtual Private Training Session
 Our private training sessions provide an easy way for owners and their dogs to
-start working with us.
+start working with us. We conduct these sessions using Google Meet virtual
+meeting software.
 
 The private training sessions allows us to meet with you and your dog. When we
 meet, we will discuss dog training in the context of your dog. This is a chance
 for you to learn how you can improve your dog's behavior on your own or with
 our various **Live and Train** packages. We can dig into your dog's specific
-issues. We adapt our primary K9 package for the needs and goals of every dog
-and owner.
+issues. We adapt our training for the needs and goals of every dog and owner.
 
 The primary package can be scheduled as often as needed as a way for dog owners
 to interact with dog trainers for private one-on-one mentoring.
@@ -82,87 +82,6 @@ dogs are allowed.
 </form>
 
 <hr/>
-
-### $150.00 -- Training Day Care Program
-Our training day care program provides your dog with up to ten hours of doggie
-daycare combined with dog training. In this program the dog spends the day in
-the home of a **K9Sit.com** dog trainer. Over the course of the day the dog
-receives training focused individualized attention. The training day care
-program provides a way for an owner to work with a trainer while still keeping
-their dog in their own home and observing incremental results.
-
-In general, our training day care program is most benifical for dogs that have
-already participated in a longer **Live and Train** program or owners who are
-prepared to schedule several days of daycare. Training builds up over time such
-that when working with a new dog the first few hours or days are mostly a time
-for the dog and the trainer to get to know each other.
-
-Call or text us schedule services.
-
-**919-809-9328**
-
-### $200.00 -- One Day Program
-Our one day program is a simple way to allow one of our trainers to work with
-your dog. This is a perfect way to refresh skills in a dog that has previously
-been trained but needs a bit of remedial work. This can be an alterative to
-traditional doggie daycare and a way to improve their skills. A dog in this
-program spends the day at the home of a **K9Sit.com** trainer. The dog gets a
-huge amount of individual attention over the course of the day. The trainer
-engages the dog with exercise, play, and human bonding in addition to periods
-of rest alternated with focused training work. The trainer and the dog's owner
-will also work together to address the dog's needs.
-
-The dog's owner is also welcome to join the trainer for as much as three hours
-of the training time.
-
-Call or text us to discuss or schedule services.
-
-**919-809-9328**
-
-### $275.00 -- Two Day Program
-Our weekend program is great when you are out of town for a weekend and would
-like to ensure your dog is in a place where they will improve their life
-skills. The dog's owner is also welcome to join the trainer for as much as one
-hour per day training time if their schedule allows.
-
-Call or text us to discuss or schedule services.
-
-**919-809-9328**
-
-### $350.00 -- Three Day Program
-Our three day program allows us to improve a dog's communication skills in a
-small block of training. This program can often be scheduled for a period of
-time when you are traveling. The work we perform in this program will be based
-on what your dog needs and how they learn. In this short program, we can establish
-foundation that can later help the dog acheive a high level of confidence and
-obedience. For dogs that have good fundemental skills we can work to get them
-to that next level of performance.
-
-The dog's owner is also welcome to join the trainer for as much as thirty
-minutes per day training time if their schedule allows.
-
-Call or text us to discuss or schedule services.
-
-**919-809-9328**
-
-### $600.00 -- Five Day Program
-The five day program allows training durring the work week or over a long
-weekend.
-
-Call or text us to discuss or schedule services.
-
-**919-809-9328**
-
-### $775.00 -- One Week Program
-Our one week program is similar to our three day program but goes a but further
-in the work of building a framework for a dog's communication and obedience.
-
-The dog's owner is also welcome to join the trainer for as much as one
-hour per day training time if their schedule allows.
-
-Call or text us to discuss or schedule services.
-
-**919-809-9328**
 
 ### $1,500.00 -- Two Week Program
 Our two week program provides twice the training of our one week program. In

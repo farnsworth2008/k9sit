@@ -10,8 +10,8 @@ const config = {
   favicon: 'img/favicon.svg',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  tagline: 'Daytona Beach, FL',
-  title: 'K9Sit.com -- Daytona Beach, FL',
+  tagline: 'Apex, NC',
+  title: 'K9Sit.com -- Apex, NC',
   url: 'https://k9sit.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
   projectName: 'k9sit', // Usually your repo name.
