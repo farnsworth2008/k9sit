@@ -35,13 +35,13 @@ special care are work with the most experienced trainers in our network. The
 **K9Sit.com** business model puts all our trainers in touch with other
 **lead**, **head**, and **principal** trainers in our network. We keep owners
 updated daily with photos and video. We encurage owners to visit with their dog
-and their dog trainer often during our Live and Train program.
+and their dog trainer often during our Board and Train program.
 
 A **non-refundable** **$200** deposit is required to schdule a dog for one of
-our **Live and Train** programs. Owners must also sign our
+our **Board and Train** programs. Owners must also sign our
 [Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
 and pay the full price of the program prior to the start of the first day of
-our **Live and Train** programs.
+our **Board and Train** programs.
 
 ## Pricing
 We adjust the prices for our services on the 1st of each month based on a
@@ -55,7 +55,7 @@ meeting software.
 The private training sessions allows us to meet with you and your dog. When we
 meet, we will discuss dog training in the context of your dog. This is a chance
 for you to learn how you can improve your dog's behavior on your own or with
-our various **Live and Train** packages. We can dig into your dog's specific
+our various **Board and Train** packages. We can dig into your dog's specific
 issues. We adapt our training for the needs and goals of every dog and owner.
 
 The primary package can be scheduled as often as needed as a way for dog owners
@@ -149,7 +149,7 @@ Call or text us to discuss or schedule services.
 **919-809-9328**
 
 ### $4,275.00 -- Six Week Puppy and Young Adult Dog Program
-Our six week **Live and Train** program for puppies is a great way to get a
+Our six week **Board and Train** program for puppies is a great way to get a
 massive head start in creating an awesome dog. We recommend that puppies start
 this program at an age of around ten weeks because it is a cricial time in
 their development. Mistakes made in puppyhood are hard to repair so if you are

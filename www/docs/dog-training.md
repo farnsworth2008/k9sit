@@ -2,6 +2,10 @@
 sidebar_position: 2
 ---
 # Dog Training
+**K9Sit.com** is a new company. We started operations on **March 1st of 2023**.
+Currently we have very low pricing to reward customers who take a leap of faith
+and work with us.
+
 **K9Sit.com** is on a mission to improve the lives of dogs and their owners by
 providing high quality services for dogs and their owners. When in our training
 programs or when their owners are traveling dogs are able to stay in the homes
@@ -37,15 +41,12 @@ special care are work with the most experienced trainers in our network. The
 updated daily with photos and video. We encurage owners to visit with their dog
 and their dog trainer often during our training programs.
 
-A **non-refundable** **$200** deposit is required to schdule a dog for one of
-our **Live and Train** programs. Owners must also sign our
-[Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
+A **non-refundable** **50%** deposit is required to schdule a dog for one of
+our **Board and Train** programs. Prior to paying the deposit owners will meet
+in-person or virtually with the trainer who will handle their dog. Owners must
+sign our [Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Train-Agreement.pdf)
 and pay the full price of the program prior to the start of the first day of
 our training programs.
-
-## Pricing
-We adjust the prices for our services on the 1st of each month based on a
-number of factors.
 
 ### $75 -- One Hour Private Training Session
 Our private training sessions provide an easy way for owners and their dogs to
@@ -80,21 +81,24 @@ another location based on where the customer and service provider are located.
 <input type="submit" name="submit" value="Pay for a Private Training Session" />
 </form>
 
-### $325 -- 4th of July Training
-Our **4th of July** program helps dogs overcome their irrational fear of
-fireworks. In this special three day program, we help dogs to change the way
-they experience the Independence Day celebrations. We use exercise, positive
-reinforcement, and confidence building sessions to help dogs process the
-experience with less stress and fear.
+### $225 -- Four Week Course
+Our training course for dogs and their owners provide one 45 minute group
+meeting per week for four weeks. The course is limited to a maximum of three
+dogs. The group meets on Wednesday nights at 6pm. Each meeting is either at the
+home of one of our dog trainers or at a nearby park. For this training we focus
+on the basics of good dog obedience and work through the issues various members
+of the group are having with their dogs.
 
-Owners should register as early as possible. This program is limited to a
-small number of dogs and is expected to fill quickly.
+The basic format of each session is the same each week. The K9Sit.com trainer
+provides an overview of the weeks focus and then leads the group through some
+exercises they can do with their dogs. The session always includes a short walk
+where the trainer leads the group and helps dogs and owners apply training
+within the context of a walk.
 
-Dogs must check-in no later then **1pm** on the **2nd** of July and checkout no
-later then **1pm** on the **5th** of July.
+Owners are given specific exercises to use as "homework" between the times when
+when the group meets.
 
-Call or text us to discuss the program or schedule your dog for this unique
-service.
+Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
@@ -111,6 +115,24 @@ The dog's owner is welcome to join the trainer for as much as thirty
 minutes per day training time if their schedule allows.
 
 Call or text us to discuss or schedule services.
+
+**919-809-9328**
+
+### $325 -- 4th of July Training
+Our **4th of July** program helps dogs overcome their irrational fear of
+fireworks. In this special three day program, we help dogs to change the way
+they experience the Independence Day celebrations. We use exercise, positive
+reinforcement, and confidence building sessions to help dogs process the
+experience with less stress and fear.
+
+Owners should register as early as possible. This program is limited to a
+small number of dogs and is expected to fill quickly.
+
+Dogs must check-in no later then **1pm** on the **2nd** of July and checkout no
+later then **1pm** on the **5th** of July.
+
+Call or text us to discuss the program or schedule your dog for this unique
+service.
 
 **919-809-9328**
 
@@ -165,7 +187,22 @@ Call or text us to discuss or schedule services.
 
 **919-809-9328**
 
-### Training for Dog Trainers
+## Pricing
+We adjust the prices for our services on the **1st of each month** based on a
+number of factors.
+
+All of our training is delivered with our **100% satisfaction guarantee**. If
+you are not completely satisfied with the training we provided we will make
+things right. You have the right to demand a refund of all or part of the cost
+of the dog training.
+
+The costs for boarding are not part of the potential refund amount and as such
+if you as a customer feel totally disastified with the training result you may
+request a refund of the cost of a board and train minus the cost we describe on
+our boarding prices. The costs will be described in detail on the invoice for
+our board and train program.
+
+## Training for Dog Trainers
 Our **Training for Dog Trainers** program is provided to help dog trainers take the art
 of training dogs to the next level.
 
