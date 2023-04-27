@@ -4,5 +4,5 @@ This file describes the project history as it relates to tagged versions.
 ## 1.0.0
 - Completed first release
 
-## 1.0.1 to 1.303.0
+## 1.0.1 to 1.305.0
 - Updated Version
