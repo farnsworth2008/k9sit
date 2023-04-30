@@ -27,8 +27,8 @@ attend or doggie daycare programs. We can resolve these issues in our
 [dog training](dog-training) program where we train and rehabilitate dogs.
 
 ## Pricing
-- $45.00 per day -- 10 hour doggy daycare
-- $65.00 per day -- 24 hour dog sitting
+- $55.00 per day -- 10 hour doggy daycare
+- $75.00 per day -- 24 hour dog sitting
 
 Call or text to schedule services.
 

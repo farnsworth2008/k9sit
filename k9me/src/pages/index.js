@@ -26,25 +26,11 @@ function HomepageHeader() {
 export default function Home() {
   return (
     <Layout
-      title="K9Sit.com"
-      description="The K9Sit.com project">
+      title="K9Me.com"
+      description="The K9Me.com project">
       <main>
         <HomepageHeader />
         <HomepageFeatures />
-        <hr />
-        <iframe
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-          allowfullscreen
-          frameborder="0"
-          height="881"
-          src="https://www.youtube.com/embed/adipiUvJasI?rel=0"
-          title="K9Sit.com"
-          width="100%"
-        />
-        <hr />
-        <center>
-          <img src="/img/zeus.jpg" width="400"></img>
-        </center>
       </main>
     </Layout>
   );

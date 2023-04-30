@@ -7,14 +7,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   baseUrl: '/',
-  favicon: 'img/favicon.svg',
+  favicon: 'diploma.svg',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
-  tagline: 'Raleigh, NC',
-  title: 'K9Sit.com -- Raleigh, NC',
-  url: 'https://k9sit.com',
+  tagline: 'Education, Mentorship, and Certification for Dog Trainers',
+  title: 'K9Me.com',
+  url: 'https://k9me.com',
   organizationName: 'farnsworth2008', // Usually your GitHub org/user name.
-  projectName: 'k9sit', // Usually your repo name.
+  projectName: 'k9me', // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -43,28 +43,19 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'K9Sit.com',
+        title: 'K9Me.com',
         logo: {
-          alt: 'K9Sit.com Logo',
-          src: 'img/favicon.svg',
+          alt: 'k9me.com Logo',
+          src: 'diploma.svg',
         },
         items: [
           {
             type: 'doc',
-            docId: 'dog-training',
+            docId: 'about-k9me',
             position: 'left',
             label: 'Services',
           },
-          {
-            to: '/blog', 
-            label: 'Blog',
-            position: 'left'
-          },
-          {
-            href: 'https://k9sit.com',
-            label: 'Locations',
-            position: 'right',
-          },
+          {to: '/blog', label: 'Blog', position: 'left'},
         ],
       },
       footer: {
@@ -77,23 +68,10 @@ const config = {
                 label: 'Facebook',
                 href: 'https://www.facebook.com/profile.php?id=100090107385858'
               },
-              {
-                label: 'K9Sit Locations',
-                href: 'https://www.k9sit.com/',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
             ],
           },
         ],
-        copyright: `K9Sit.com`,
+        copyright: `k9me.com`,
       },
       prism: {
         theme: lightCodeTheme,

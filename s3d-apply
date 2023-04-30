@@ -38,5 +38,7 @@ build_site oh/kent kent-oh-k9sit-com-buffalo-230329
 build_site nc/raleigh raleigh-nc-k9sit-com-elk-230417
 build_site other/anywhere anywhere-k9sit-com-bull-230414
 
+k9me/s3d-apply
 www/s3d-apply
+
 rm -rf work
