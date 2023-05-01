@@ -106,7 +106,7 @@ dog and dog owner.
 <input type="submit" name="submit" value="Pay for 60 Minute Private Training Session" />
 </form>
 
-### $450 -- 3 Day Program
+### $550 -- 3 Day Program
 Our three day program allows us to improve a dog's communication skills with a
 small block of training. This program can often be scheduled for a period of
 time when you are traveling. The work we perform in this program will be based
@@ -120,7 +120,7 @@ minutes per day training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $425 -- 4th of July Training
+### $625 -- 4th of July Training
 Our **4th of July** program helps dogs overcome their irrational fear of
 fireworks. In this special three day program, we help dogs to change the way
 they experience the Independence Day celebrations. We use exercise, positive
@@ -135,7 +135,7 @@ later then **1pm** on the **5th** of July.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $975 -- 7 Day Program
+### $1,275 -- 7 Day Program
 Our seven day program is similar to our three day program but goes a but
 further in the work of building a framework for a dog's communication and
 obedience.
@@ -145,7 +145,7 @@ day for training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $1,725 -- 14 Day Program
+### $2,125 -- 14 Day Program
 Our fourteen day program provides twice the training of our one week program.
 In this program, most dogs will learn all the basic obedience commands such
 as **sit**, **down**, **stay**, **leave-it**, etc.
@@ -155,7 +155,7 @@ of training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $2,275 -- 21 Day Program
+### $2,975 -- 21 Day Program
 Our twenty one day program is a great programs for puppies and/or adult dogs.
 Dogs in this program are expected to master all skills needed for obedience and
 communication with their obedience.
@@ -170,7 +170,7 @@ transition to and from the board and train experience.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $2,975 -- 28 Day Program
+### $3,875 -- 28 Day Program
 Our twenty eight day program provides your dog with a large block of time to
 live with and work with one of our trainers. Dogs benefit from the extra time
 with the trainer as they perfect their skills.
