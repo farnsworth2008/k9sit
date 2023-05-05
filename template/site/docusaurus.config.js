@@ -62,7 +62,7 @@ const config = {
           },
           {
             href: 'https://k9sit.com',
-            label: 'Locations',
+            label: 'Service Areas',
             position: 'right',
           },
         ],
@@ -78,7 +78,7 @@ const config = {
                 href: 'https://www.facebook.com/profile.php?id=100090107385858'
               },
               {
-                label: 'K9Sit Locations',
+                label: 'K9Sit Service Areas',
                 href: 'https://www.k9sit.com/',
               },
             ],

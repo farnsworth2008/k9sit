@@ -13,16 +13,26 @@ our programs.
 
 <tr>
 <td valign="top">
-<a href="https://www.facebook.com/mark.farnsworth.v2/"><img src="https://k9sit.com/mark-farnsworth.png"  width="100%" /></a>
+<a href="https://www.facebook.com/mark.farnsworth.v2/"><img src="https://K9Sit.com/mark-farnsworth.png"  width="100%" /></a>
 </td>
 <td>
 
 **Mark Farnsworth CEO, CTO, Dog Trainer**
 _(Cheif Operating Officer, Cheif Technology Officer)_
 
-Mark is the founder of **K9Sit.com** and serves as our **CTO**. In addition to
-his primary responsibilies as **CEO** Mark works as a **Lead Trainer**
-in [Raleigh, NC](https://raleigh-nc.k9sit.com/).
+Mark is the founder of the **K9Me.com** and **K9Sit.com** brands. Mark serves
+as the **CEO** and **CTO** for both brands. In addition to his primary role
+leading both companies Mark works as a **Dog Trainer**
+for [K9Sit.com in Raleigh, NC](https://raleigh-nc.K9Sit.com/). With the
+[K9Me.com](https://k9me.com) brand Mark and Krista Cote provide mentorship and
+certificaiton for new dog trainers.
+
+As a young child, Mark spent five years in a special school run by Doctor
+Elizabeth Missakian where he learned important lessons about animal psychology.
+As a clinical psychologist Mrs. Missakian was an expert in the behavoir of
+primates. Mark participated in research for a book about the Social Play of
+Primates. This experience was the start of Mark's life long interest in
+the psychology of animals.
 
 Mark has over thirty years of experience in software development and
 leadership.
@@ -33,16 +43,20 @@ applications used in major hospital systems. In the past few years Mark was a
 key part of software development teams at LabCorp where he created important
 components for one of the first at-home **COVID** testing platform. Most
 recently Mark worked as a cloud computing expert for before starting
-**K9Sit.com**. His experience is an asset as we the develop custom software
-to power the **K9Sit.com** brand.
+**K9Me.com** and **K9Sit.com**. His experience is an asset as we the develop
+custom software to power the **K9Me.com** and **K9Sit.com** brands.
 
 Mark loves working with and inventing technology such as hardward and software
 for dog training. His own dog often has a lighted e-collar for off leash work.
 He uses the beep feature of the collar for positive reinforcement at a distance
 _(similar to "clicker" training)_. Mark is also inventing technology products
-that he and other trainers at **K9Sit.com** will use.
+that he and other trainers at **K9Me.com** will use. For on-leash work Mark has
+built a special leash with a integrated scale that measures the amount of force
+a dog creates when they pull at the leash. By working creativly with technology
+and techniques Mark is able to create amazing results using scientific methods.
 
-You can often see Mark and his dog Tig riding together on his motorcycle.
+You can often see Mark and his dog Tig riding together on his motorcycle using
+gear he has adapted and re-designed for the task.
 
 Mark works closely with candidates for our our open positions as we grow the
 company.

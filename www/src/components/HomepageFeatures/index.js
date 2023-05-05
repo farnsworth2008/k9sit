@@ -258,16 +258,6 @@ const LocationList = [
     ),
   },
   {
-    title: 'Kent, OH',
-    to: 'https://kent-oh.k9sit.com',
-    Svg: require('@site/static/site/basset.svg').default,
-    description: (
-      <>
-        <a href="https://kent-oh.k9sit.com">Kent, OH</a>
-      </>
-    ),
-  },
-  {
     title: 'Raleigh, NC',
     to: 'https://raleigh-nc.k9sit.com',
     Svg: require('@site/static/site/australian.svg').default,
@@ -351,8 +341,6 @@ export default function HomepageFeatures() {
 
                     if (value.startsWith("2")) {
                       stateCode = "NC";
-                    } else if (value.startsWith("4")) {
-                      stateCode = "OH";
                     }
 
                     FilteredLocationList = [LocationList[0]];

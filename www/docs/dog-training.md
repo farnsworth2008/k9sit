@@ -55,9 +55,9 @@ meeting platform.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $50 -- Thirty Minute Private Training Session
-Our private training sessions arean easy way for owners and their dogs to work
-with us.
+### $40 -- 20 Minute Private Training Session
+Our twenty minute private training sessions are an easy way for owners and
+their dogs to work with us.
 
 The private training sessions allows us to meet with you and your dog. When we
 meet, we will discuss dog training in the context of your dog. This is a chance
@@ -75,7 +75,24 @@ another location based on where the customer and service provider are located.
 Please call or text us at **919-809-9328** to learn more.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="amount" value="50" />
+<input type="hidden" name="amount" value="40" />
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
+<input type="hidden" name="business" value="farnsworth2008@gmail.com" />
+<input type="hidden" name="button_subtype" value="services" />
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="hidden" name="item_name" value="20 Minute Private Training Session" />
+<input type="hidden" name="lc" value="US" />
+<input type="hidden" name="no_note" value="0" />
+<input type="hidden" name="shipping" value="0" />
+<input type="submit" name="submit" value="Pay for 20 Minute Private Training Session" />
+</form>
+
+### $65 -- 30 Minute Private Training Session
+The thirty minute session gives us a bit more time to talk.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="amount" value="65" />
 <input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
 <input type="hidden" name="business" value="farnsworth2008@gmail.com" />
 <input type="hidden" name="button_subtype" value="services" />
@@ -88,12 +105,12 @@ Please call or text us at **919-809-9328** to learn more.
 <input type="submit" name="submit" value="Pay for 30 Minute Private Training Session" />
 </form>
 
-### $75 -- 60 Minute Private Training Session
+### $85 -- 60 Minute Private Training Session
 Our one hour private training session is a great option when working with a new
 dog and dog owner.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="amount" value="75" />
+<input type="hidden" name="amount" value="85" />
 <input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
 <input type="hidden" name="business" value="farnsworth2008@gmail.com" />
 <input type="hidden" name="button_subtype" value="services" />
@@ -106,7 +123,28 @@ dog and dog owner.
 <input type="submit" name="submit" value="Pay for 60 Minute Private Training Session" />
 </form>
 
-### $550 -- 3 Day Program
+### $375 -- Private Training Package
+Our puppy and/or problem dog at home package provides ten of our twenty minute
+sessions. We work with you using virtual and/or in-person consultation to help
+you create and/or maintain a great dog.
+
+Please call or text us at **919-809-9328** to learn more.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="amount" value="375" />
+<input type="hidden" name="bn" value="PP-BuyNowBF:btn_buynowCC_LG.gif:NonHostedGuest" />
+<input type="hidden" name="business" value="farnsworth2008@gmail.com" />
+<input type="hidden" name="button_subtype" value="services" />
+<input type="hidden" name="cmd" value="_xclick" />
+<input type="hidden" name="currency_code" value="USD" />
+<input type="hidden" name="item_name" value="Private Training Package" />
+<input type="hidden" name="lc" value="US" />
+<input type="hidden" name="no_note" value="0" />
+<input type="hidden" name="shipping" value="0" />
+<input type="submit" name="submit" value="Pay for the Private Training Package" />
+</form>
+
+### $550 -- 3 Day Board and Train
 Our three day program allows us to improve a dog's communication skills with a
 small block of training. This program can often be scheduled for a period of
 time when you are traveling. The work we perform in this program will be based
@@ -120,7 +158,7 @@ minutes per day training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $625 -- 4th of July Training
+### $625 -- 4th of July Board and Train
 Our **4th of July** program helps dogs overcome their irrational fear of
 fireworks. In this special three day program, we help dogs to change the way
 they experience the Independence Day celebrations. We use exercise, positive
@@ -135,7 +173,7 @@ later then **1pm** on the **5th** of July.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $1,275 -- 7 Day Program
+### $1,275 -- 7 Day Board and Train
 Our seven day program is similar to our three day program but goes a but
 further in the work of building a framework for a dog's communication and
 obedience.
@@ -145,20 +183,22 @@ day for training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $2,125 -- 14 Day Program
+### $2,125 -- 14 Day Board and Train
 Our fourteen day program provides twice the training of our one week program.
 In this program, most dogs will learn all the basic obedience commands such
-as **sit**, **down**, **stay**, **leave-it**, etc.
+as **sit**, **down**, **stay**, **come**, etc.
 
 The dog's owner is welcome to join the trainer for as much as one hour per day
 of training time if their schedule allows.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $2,975 -- 21 Day Program
-Our twenty one day program is a great programs for puppies and/or adult dogs.
-Dogs in this program are expected to master all skills needed for obedience and
-communication with their obedience.
+### $2,975 -- 21 Day Board and Train
+Our twenty one day program is a great for puppies and/or adult dogs because
+really when owners have high expectations two weeks is not enough time for the
+training goals we often want to see. Dogs in our three week program should be
+able master all skills needed for obedience and will leave with communication
+skills that allow owners to easily work with their dogs.
 
 The dog's owner is welcome to join the trainer for as much as one hour per day
 training time if their schedule allows. Within the context of the 28 day
@@ -170,7 +210,7 @@ transition to and from the board and train experience.
 
 Please call or text us at **919-809-9328** to learn more.
 
-### $3,875 -- 28 Day Program
+### $3,875 -- 28 Day Board and Train
 Our twenty eight day program provides your dog with a large block of time to
 live with and work with one of our trainers. Dogs benefit from the extra time
 with the trainer as they perfect their skills.
@@ -192,7 +232,7 @@ temperament in a variety of settings.
 
 Please call or text us at **919-809-9328** to learn more.
 
-## Pricing
+## Guaranteed Results
 All of our training is delivered with our **100% satisfaction guarantee**. If
 you are not completely satisfied with the training we provided we will make
 things right. You have the right to demand a refund of all or part of the cost
