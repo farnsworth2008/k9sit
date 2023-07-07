@@ -29,15 +29,17 @@ build_site() {
   "work/$1/site/s3d-apply" "s3://$2"
 }
 
-build_site nc/apex apex-nc-k9sit-com-platypus-230420
-build_site nc/cary cary-nc-k9sit-com-joey-230420
-build_site nc/charlotte charlotte-nc-k9sit-com-shepherd-230417
-build_site nc/durham durham-nc-k9sit-com-longhorn-230420
-build_site nc/greensboro greensboro-nc-k9sit-com-starling-230420
-build_site oh/kent kent-oh-k9sit-com-buffalo-230329
-build_site nc/raleigh raleigh-nc-k9sit-com-elk-230417
-build_site other/anywhere anywhere-k9sit-com-bull-230414
+build_site nc/angier angier-nc-k9sit-com-akita-230610
+# build_site nc/apex apex-nc-k9sit-com-platypus-230420
+# build_site nc/cary cary-nc-k9sit-com-joey-230420
+# build_site nc/charlotte charlotte-nc-k9sit-com-shepherd-230417
+# build_site nc/durham durham-nc-k9sit-com-longhorn-230420
+# build_site nc/greensboro greensboro-nc-k9sit-com-starling-230420
+# build_site oh/kent kent-oh-k9sit-com-buffalo-230329
+# build_site nc/raleigh raleigh-nc-k9sit-com-elk-230417
+# build_site other/anywhere anywhere-k9sit-com-bull-230414
 
+k9check/s3d-apply
 k9me/s3d-apply
 www/s3d-apply
 

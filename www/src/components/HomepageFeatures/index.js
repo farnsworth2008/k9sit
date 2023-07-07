@@ -3,7 +3,7 @@ import clsx from 'clsx';
 import styles from './styles.module.css';
 
 const zipMap = {
-  "27401": "Durham, NC",	
+  "27401": "Durham, NC",
   "27402": "Durham, NC",
   "27403": "Durham, NC",
   "27404": "Durham, NC",
@@ -31,6 +31,7 @@ const zipMap = {
   "27497": "Durham, NC",
   "27498": "Durham, NC",
   "27499": "Durham, NC",
+  "27501": "Angier, NC",
   "27502": "Apex, NC",
   "27511": "Cary, NC",
   "27512": "Cary, NC",
@@ -208,52 +209,12 @@ const LocationList = [
     ),
   },
   {
-    title: 'Apex, NC',
-    to: 'https://apex-nc.k9sit.com',
-    Svg: require('@site/static/site/bernese.svg').default,
+    title: 'Angier, NC',
+    to: 'https://angier-nc.k9sit.com',
+    Svg: require('@site/static/site/basset.svg').default,
     description: (
       <>
-        <a href="https://apex-nc.k9sit.com">Apex, NC</a>
-      </>
-    ),
-  },
-  {
-    title: 'Cary, NC',
-    to: 'https://cary-nc.k9sit.com',
-    Svg: require('@site/static/site/boxer.svg').default,
-    description: (
-      <>
-        <a href="https://cary-nc.k9sit.com">Cary, NC</a>
-      </>
-    ),
-  },
-  {
-    title: 'Charlotte, NC',
-    to: 'https://charlotte-nc.k9sit.com',
-    Svg: require('@site/static/site/bernard.svg').default,
-    description: (
-      <>
-        <a href="https://charlotte-nc.k9sit.com">Charlotte, NC</a>
-      </>
-    ),
-  },
-  {
-    title: 'Durham, NC',
-    to: 'https://durham-nc.k9sit.com',
-    Svg: require('@site/static/site/bulldog.svg').default,
-    description: (
-      <>
-        <a href="https://durham-nc.k9sit.com">Durham, NC</a>
-      </>
-    ),
-  },
-  {
-    title: 'Greensboro, NC',
-    to: 'https://greensboro-nc.k9sit.com',
-    Svg: require('@site/static/site/cairn-terrier.svg').default,
-    description: (
-      <>
-        <a href="https://greensboro-nc.k9sit.com">Greensboro, NC</a>
+        <a href="https://angier-nc.k9sit.com">Angier, NC</a>
       </>
     ),
   },

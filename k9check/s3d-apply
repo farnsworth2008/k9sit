@@ -1,0 +1,12 @@
+#!/bin/bash
+set -e
+
+# Switch to script directory
+cd "$(dirname "$0")"
+
+# Build (with npm install if needed)
+npm i @docusaurus/core@latest @docusaurus/preset-classic@latest @docusaurus/module-type-aliases@latest
+npm run build
+
+aws s3 sync --delete build 's3://www-k9check-com-mudfish-230530'
+aws s3 sync --delete build 's3://k9check-com-crayfish-230530'

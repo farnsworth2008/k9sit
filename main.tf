@@ -3,8 +3,20 @@ data "aws_vpc" "this" {
 }
 
 locals {
-  k9me_group = module.k9me_site_group
-  group      = module.site_group
+  k9check_group = module.k9check_site_group
+  k9me_group    = module.k9me_site_group
+  group         = module.site_group
+}
+
+module "angier_nc" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = "angier-nc"
+  tags        = local.group.tags
 }
 
 module "anywhere" {
@@ -71,6 +83,46 @@ module "greensboro_nc" {
   kms_key_arn = null
   name        = "greensboro-nc"
   tags        = local.group.tags
+}
+
+module "k9check_root_site" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.3.42"
+
+  domain      = local.k9check_group.domain
+  favicon     = null
+  kms_key_arn = null
+  name        = null
+  tags        = local.k9check_group.tags
+}
+
+# tfsec:ignore:aws-ec2-no-public-egress-sgr
+# tfsec:ignore:aws-ec2-no-public-ingress-sgr
+module "k9check_site_group" {
+  source = "github.com/s3d-club/terraform-aws-site-group?ref=v1.1.0"
+
+  cidr6s        = ["::/0"]
+  cidrs         = ["0.0.0.0/0"]
+  domain        = "k9check.com"
+  name          = "k9check"
+  ec2_key_name  = "s3d"
+  ecrs          = ["python"]
+  egress_cidr6s = ["::/0"]
+  egress_cidrs  = ["0.0.0.0/0"]
+  enable_ec2    = false
+  kms_key_id    = null
+  tags          = {}
+  vpc_id        = data.aws_vpc.this.id
+}
+
+module "k9check_www" {
+  count  = 1
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+
+  domain      = local.k9check_group.domain
+  favicon     = null
+  kms_key_arn = null
+  tags        = local.k9me_group.tags
 }
 
 module "k9me_root_site" {
