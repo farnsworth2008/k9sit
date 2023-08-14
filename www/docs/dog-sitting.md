@@ -21,13 +21,12 @@ can pass the [K9Sit.com "Green" Test](the-test) or [The AKC Canine Good Citizenâ
 to qualify for our dog sitting program. We do not require the test for puppies
 under seven months of age who are enrolled in our training programs.
 
-Any dog or puppy that has signs of severe separation anxiety, aggression, or
-other problems can not stay in our **K9Sit.com** dog sitting service or
-attend or doggie daycare programs. We can resolve these issues in our
+Dog or puppy that has signs of separation anxiety, mild aggression, and/or
+other problems can stay in our **K9Sit.com** dog sitting service where we work
+with them to manage and hopefully resolve the issue in our
 [dog training](dog-training) program where we train and rehabilitate dogs.
 
 ## Pricing
-- $55.00 per day -- 10 hour doggy daycare
 - $75.00 per day -- 24 hour dog sitting
 
 Call or text to schedule services.

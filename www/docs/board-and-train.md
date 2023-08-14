@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # Board and Train Programs
 **K9Sit.com** is on a mission to improve the lives of dogs and their owners by
@@ -50,43 +50,34 @@ your dog. In this program the dog lives with the trainer. Most dogs will learn
 all the basic obedience commands suchas **sit**, **down**, **stay**, **come**,
 etc.
 
-Please call or text us at **919-809-9328** to learn more.
-
-### $2,075 -- 21 Day Board and Train
+### $2,500 -- 21 Day Board and Train
 Our twenty one day program is a great for puppies and/or adult dogs because
 really when owners have high expectations two weeks is not enough time for the
 training goals we often want to see. Dogs in our three week program should be
 able master all skills needed for obedience and will leave with communication
 skills that allow owners to easily work with their dogs.
 
-Please call or text us at **919-809-9328** to learn more.
-
-### $2,775 -- 28 Day Board and Train
-Our twenty eight day program provides your dog with a large block of time to
-live with and work with one of our trainers. Dogs benefit from the extra time
-with the trainer as they perfect their skills.
-
-For an additional **$500** dollars we can evaluate dogs and complete the
-paperwork needed for the [North Carolina Service Animal](https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/independent-living-people-disabilities/service-animals-people-disabilities) registration process provided
-the dog has an appropriate temperament and can be successfully trained to
-provide services that meet the legal requirements defined by the Americans with
-Disabilities Act. Within the evaluation period our trainers will test dogs for
-temperament in a variety of settings.
-
-Please call or text us at **919-809-9328** to learn more.
+## Service Dog Training
+For an additional **$500** dollars, we will evaluate your dogs and complete the
+paperwork needed for the [North Carolina Service Animal](https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/independent-living-people-disabilities/service-animals-people-disabilities) registration
+process provided the dog has an appropriate temperament and can be successfully
+trained to provide services that meet the legal requirements defined by the
+Americans with Disabilities Act. Within the evaluation period our trainers will
+test dogs for temperament in a variety of settings and work with the dog to
+resolve issues.
 
 ## Training for Dog Trainers
 Working in partnership with [K9Me.com](https://k9me.com) we provide
 **Training for Dog Trainers** who are ready to start or grow their career.
 
+## Call Us!
 Please call or text us at **919-809-9328** to learn more.
 
 <hr/>
 
 <iframe
 allowfullscreen
-frameborder="0"
-height="881"
+height="818"
 src="https://www.youtube.com/embed/HzKueJud7GA?rel=0"
 title="Tig at Walmart"
 width="100%"

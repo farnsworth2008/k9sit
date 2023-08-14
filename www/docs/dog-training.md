@@ -22,7 +22,7 @@ situation.
 <iframe
 allowfullscreen
 frameborder="0"
-height="881"
+height="818"
 src="https://www.youtube.com/embed/HzKueJud7GA?rel=0"
 title="Tig at Walmart"
 width="100%"
