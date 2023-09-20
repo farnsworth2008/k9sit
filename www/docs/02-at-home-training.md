@@ -1,5 +1,5 @@
 ---
-sidebar_position: 3
+sidebar_position: 2
 ---
 # At Home Dog Training
 **K9Sit.com** is on a mission to improve the lives of dogs and their owners by
@@ -10,10 +10,16 @@ drop-off. For the **AT HOME** services the dog stays with you in your home and
 you are part of most or all of the training sessions. Our trainers will visit
 with you and your dog in your home to work through issues specific to your dog.
 
+### $625 -- Basic Training Package
+Our basic puppy or dog at home package helps you train your dog. The trainer
+visits you in your home to work with you and/or your dog. You and the trainer
+work to customize a package with ten hours of training in your home. This
+training is usually delivered over the course of a one month period.
+
 ### $1,275 -- Advanced Training Package
 Our advanced puppy or dog at home package helps you train your dog. The trainer
 visits you in your home to work with you and/or your dog. You and the trainer
-work to customize a package of three days of boarding plus forty hours of
+work to customize a package of two days of boarding plus thirty hours of
 training in your home. This training is usually delivered over the course of a
 three month period.
 

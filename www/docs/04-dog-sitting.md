@@ -24,7 +24,7 @@ under seven months of age who are enrolled in our training programs.
 Dog or puppy that has signs of separation anxiety, mild aggression, and/or
 other problems can stay in our **K9Sit.com** dog sitting service where we work
 with them to manage and hopefully resolve the issue in our
-[dog training](dog-training) program where we train and rehabilitate dogs.
+[dog training](03-board-and-train) program where we train and rehabilitate dogs.
 
 ## Pricing
 - $75.00 per day -- 24 hour dog sitting

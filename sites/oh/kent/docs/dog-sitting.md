@@ -24,7 +24,7 @@ under seven months of age who are enrolled in our training programs.
 Any dog or puppy that has signs of severe separation anxiety, aggression, or
 other problems can not stay in our **K9Sit.com** dog sitting service or
 attend or doggie daycare programs. We can resolve these issues in our
-[dog training](dog-training) program where we train and rehabilitate dogs.
+[dog training](03-board-and-train) program where we train and rehabilitate dogs.
 
 ## Pricing
 - $45.00 per day -- 10 hour doggy daycare

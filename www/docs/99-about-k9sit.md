@@ -1,5 +1,5 @@
 ---
-sidebar_position: 10
+sidebar_position: 99
 ---
 # About K9Sit.com
 **K9Sit.com** is a company focused on improving the lives of dogs and

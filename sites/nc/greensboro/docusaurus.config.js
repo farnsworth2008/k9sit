@@ -51,7 +51,7 @@ const config = {
         items: [
           {
             type: 'doc',
-            docId: 'dog-training',
+            docId: 'at-home-training',
             position: 'left',
             label: 'Services',
           },

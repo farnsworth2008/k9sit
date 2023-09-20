@@ -1,5 +1,5 @@
 ---
-sidebar_position: 2
+sidebar_position: 3
 ---
 # Board and Train Programs
 **K9Sit.com** is on a mission to improve the lives of dogs and their owners by

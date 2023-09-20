@@ -1,5 +1,5 @@
 ---
-sidebar_position: 9
+sidebar_position: 98
 ---
 # The K9Sit.com Team
 At **K9Sit.com** our teams meet at least once per week to dicuss dog training
