@@ -20,9 +20,14 @@ We currently provide certification for professionals working with dogs.
 - **K9Me Certified Trainer**
 - **K9Me Certified Behaviorist**
 
-Certified trainers understand positive reenforcement dog training and the use of environmental management tools such as prong collars, e-collars, chain collars, and slip leads. These professionals are able to safely work with most dogs.
+Certified trainers understand positive reenforcement dog training and the use
+of environmental management tools such as prong collars, e-collars, chain
+collars, and slip leads. These professionals are able to safely work with most
+dogs.
 
-K9Me Certified Behaviorists are dog trainers with the experience and understanding needed to work with potentially dangerous dogs. These professionals are able to safely work with all dogs.
+**K9Me.com** Certified Behaviorists are dog trainers with the experience and
+understanding needed to work with potentially dangerous dogs. These
+professionals are able to safely work with all dogs.
 
 Call or text **K9Me.com** at **919-809-9328** to verify certification status or
 learn more about our program.
