@@ -8,18 +8,8 @@ greenways, or outdoor shopping areas. Classes are conducted as a walking group
 where we socialize a bit and perform training activities over the course of a
 short hour walk.
 
-Topics are as follows without any fixed agenda. We will perform training
-exercises and discuss topics based on what interests those who attend each
-event.
-
-Building focus with your dog, Using a "Touch" cue; adding "Sit" and "Down";
-adding duration, distraction, and release. Walking with a loose leash (in
-public with distractions) Impulse Control Behavior in Public Tools (treats,
-various collar styles, harnesses, leashes, etc.) Nosework (detection and
-indication for the target odor).
-
-Dogs will not interact with dogs at these events. Owners must manage their dogs
-as these events are in public spaces. We recommend that every owner have leash
+Dogs will not interact with dogs at these events. Owners manage their dogs as
+these events are in public spaces. We recommend that every owner have leash
 they are confident with as well as a mechanical clicker, treats, and/or toys to
 reward their dog. Dogs that are reactive are welcome provided the owner takes
 full responsibility for management of their dog. The owners of dogs who are not
