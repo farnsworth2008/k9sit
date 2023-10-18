@@ -47,44 +47,12 @@ recently Mark worked as a cloud computing expert for before starting
 **K9Check.com** and **K9Sit.com**. His experience is an asset as we the develop
 custom software to power the **K9Check.com** and **K9Sit.com** brands.
 
-Mark loves working with and inventing technology such as hardward and software
-for dog training. He enjoys working with an e-collar and researching the
-science of dog behavior. Mark is working to invent technology products that he
-and other trainers at **K9Sit.com** will hopefully find useful. For on-leash work
-Mark has created a special leash with a integrated digital scale that measures
-the amount of force a dog creates when they pull at the leash. By working
-creativly with technology and techniques Mark is able to create amazing results
-using scientific methods.
 
 You can often see Mark and his dog Tig riding together on his motorcycle using
 gear he has adapted and re-designed for the task.
 
 Mark works closely with candidates for our our open positions as we grow the
 company.
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-<a href="https://www.facebook.com/profile.php?id=100076364791861"><img src="https://k9me.com/christian.jpg"  width="100%" /></a>
-</td>
-<td>
-
-**Christian Scharphorn, Lead Dog Trainer**
-
-Christian grew up around dogs and has been working professionally as a dog
-trainer for over a decade. He has found that every breed of dog was designed
-for a different job and each of these breeds come with their own challenges due
-to a lot of their natural instincts. With his experience he is our expert on
-the behavior challenges associated with many working breeds. His extensive
-knowledge allows him to create customize(custom) training packages that are
-more effective. He has an uncanny ability to anticipate how dogs will react in
-different situations. His view is that dogs are not born aggressive or
-destructive, what he has observed is that dogs need to feel fulfilled in life
-and this need for work varies depending on the breed. His experience helps him
-to teach people how they can use their dog’s natural instincts to train them
-into the dog that they want to be with forever.
 
 </td>
 </tr>

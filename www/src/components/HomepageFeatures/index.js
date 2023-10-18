@@ -209,16 +209,6 @@ const LocationList = [
     ),
   },
   {
-    title: 'Angier, NC',
-    to: 'https://angier-nc.k9sit.com',
-    Svg: require('@site/static/site/basset.svg').default,
-    description: (
-      <>
-        <a href="https://angier-nc.k9sit.com">Angier, NC</a>
-      </>
-    ),
-  },
-  {
     title: 'Raleigh, NC',
     to: 'https://raleigh-nc.k9sit.com',
     Svg: require('@site/static/site/australian.svg').default,
