@@ -55,7 +55,6 @@ const config = {
             position: 'left',
             label: 'Services',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://www.k9sit.com',
             label: 'Service Areas',

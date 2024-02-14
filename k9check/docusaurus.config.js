@@ -55,11 +55,6 @@ const config = {
             position: 'left',
             type: 'doc',
           },
-          {
-            label: 'Blog',
-            position: 'left',
-            to: '/blog',
-          },
         ],
       },
       footer: {

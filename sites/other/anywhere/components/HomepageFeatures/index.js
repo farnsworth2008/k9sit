@@ -5,12 +5,12 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Dog Training',
-    to: '/docs/02-at-home-training',
+    to: '/docs/at-home-training',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
         <p>
-          Our <a href="/docs/02-at-home-training">dog training</a> program improves the lives of dogs and their owners.
+          Our <a href="/docs/at-home-training">dog training</a> program improves the lives of dogs and their owners.
         </p>
         <p>
           &nbsp;

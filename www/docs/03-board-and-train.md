@@ -44,21 +44,26 @@ sign our [Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Tra
 and pay the full price of the program prior to the start of the first day of
 our training programs.
 
-### $1,475 -- 14 Day Board and Train
+### $1,450 -- 14 Day Board and Train
 Our fourteen day program provides a block of time where a trainer can work with
 your dog. In this program the dog lives with the trainer. Most dogs will learn
 all the basic obedience commands suchas **sit**, **down**, **stay**, **come**,
 etc.
 
-### $2,500 -- 21 Day Board and Train
+### $2,150 -- 21 Day Board and Train
 Our twenty one day program is a great for puppies and/or adult dogs because
-really when owners have high expectations two weeks is not enough time for the
-training goals we often want to see. Dogs in our three week program should be
-able master all skills needed for obedience and will leave with communication
-skills that allow owners to easily work with their dogs.
+really for many dogs two weeks is not enough time for the training goals we
+have. Dogs in our three week program should be able master all skills needed
+for obedience and will leave with communication skills that allow owners to
+easily work with their dogs.
+
+### $110/day -- Custom Board and Train
+We can build custom packages for additional days of training outside of our
+normal packages. When we take two dogs from the same household we are able to
+provide a 30% discount on the cost of boarding or training the second dog.
 
 ## Service Dog Training
-For an additional **$500** dollars, we will evaluate your dogs and complete the
+For an additional **$500** dollars, we will evaluate yo ur dogs and complete the
 paperwork needed for the [North Carolina Service Animal](https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/independent-living-people-disabilities/service-animals-people-disabilities) registration
 process provided the dog has an appropriate temperament and can be successfully
 trained to provide services that meet the legal requirements defined by the
@@ -78,7 +83,7 @@ Please call or text us at **919-809-9328** to learn more.
 <iframe
 allowfullscreen
 height="818"
-src="https://www.youtube.com/embed/HzKueJud7GA?rel=0"
-title="Tig at Walmart"
+src="https://www.youtube.com/embed/1neRsImyzXE?rel=0"
+title="Video"
 width="100%"
 />

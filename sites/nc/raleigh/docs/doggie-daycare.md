@@ -23,15 +23,10 @@ in our playground spaces.
 The people who provide services for our network of experienced pet sitters love
 having well behaved guest dogs in their homes. We only accept well trained dogs
 for dog sitting or doggie day. You must be able to demonstrate that your dog
-can pass the [K9Sit.com "Green" Test](the-test) or [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/)
+has passed the [The AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/)
 to qualify for our dog sitting program. We do not require the test for puppies
-under seven months of age who are enrolled in our training programs.
-
-Any dog or puppy that has signs of severe separation anxiety, aggression, or
-other problems can not stay in our **K9Sit.com** dog sitting service or
-attend or doggie daycare programs. We can resolve these issues in our
-[dog training](03-board-and-train) program where we train and rehabilitate
-dogs.
+under seven months of age but all adult dogs are expected to have CGC papers or
+be involved in **K9Sit.com** approved training program.
 
 Our service providers apply the following rules for doggie daycare in their homes.
 

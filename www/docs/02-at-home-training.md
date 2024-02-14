@@ -18,18 +18,23 @@ We may put the dog in an environmental context that includes prong collars,
 choke chains, and/or e-collars when we have shown the owner the proper use of
 these tools for behavior modification. 
 
-### $625 -- Basic Training Package
+### $70 -- One Hour Private Training
+Our one hour private training option helps you get started. In the hour we
+discuss the relationship you have with your dog and provide you with
+information so you can improve the way you communicate.
+
+### $375 -- Basic Training Package
 Our basic puppy or dog at home package helps you train your dog. The trainer
 visits you in your home to work with you and/or your dog. You and the trainer
-work to customize a package with ten hours of training in your home. This
-training is usually delivered over the course of a one month period.
+work to customize a package with four hours of training in your home. This
+training is usually delivered over the course of a one month period with
+meetings once per week in your home.
 
-### $1,275 -- Advanced Training Package
+### $625 -- Advanced Training Package
 Our advanced puppy or dog at home package helps you train your dog. The trainer
 visits you in your home to work with you and/or your dog. You and the trainer
-work to customize a package of two days of boarding plus twenty five hours of
-training in your home. This training is usually delivered over the course of a
-three month period.
+work to customize a package of eight hours of training in your home. This
+training is usually delivered over the course of a three month period.
 
 ### $?,??? -- Custom Training Package
 Custom sized training packages can be created provided they are larger than the
@@ -47,6 +52,6 @@ Please call or text us at **919-809-9328** to learn more.
 allowfullscreen
 height="818"
 src="https://www.youtube.com/embed/hJXE2FBwk1g"
-title="Down means down"
+title="Video"
 width="100%"
 />
