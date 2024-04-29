@@ -14,15 +14,15 @@ service providers represent our brand and as such we are very selective. Your
 dog is safe and comfortable with us.
 
 The people who provide services for our network of experienced pet sitters love
-having well behaved guest dogs in their homes. We only accept well trained dogs
-for dog sitting. You must be able to demonstrate that your dog has passed the
-[AKC Canine Good Citizen™ test](https://www.akc.org/products-services/training-programs/canine-good-citizen/)
-to qualify for our dog sitting program. We do not require the test for puppies
-under seven months of age and may waive the requirement for dogs enrolled in
-our training programs.
+having well behaved guest dogs in their homes. In our program your dog lives
+with a family in a home and is treated as a special guest. The dog will have a
+lot of fun and will also practice good behavior. Providers in our network are
+either certified dog trainers or have been checked out by our trainers to
+ensure that the home is safe and the provider understands how to provide the
+top quality experience our brand delivers.
 
 ## Pricing
-- $55.00 per day -- 24 hour dog sitting
+- $69.00 per day -- 24 hour dog sitting
 
 Call or text to schedule services.
 

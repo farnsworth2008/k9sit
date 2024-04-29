@@ -44,32 +44,45 @@ sign our [Training Agreement document](https://k9sit.com/K9Sit.com-Board-and-Tra
 and pay the full price of the program prior to the start of the first day of
 our training programs.
 
-### $1,450 -- 14 Day Board and Train
-Our fourteen day program provides a block of time where a trainer can work with
-your dog. In this program the dog lives with the trainer. Most dogs will learn
-all the basic obedience commands suchas **sit**, **down**, **stay**, **come**,
-etc.
+Science published in recent decades shows that traditional spay/neuter
+procedures harm the health and behaivor of dogs. We provide a 10% discount for
+any intact dogs in our programs. We want to help you and your dog live your
+best lives. We are completely opposed to using traditional spay/neuter to alter
+behavior. In cases where owners need surgical steralization we can refer you to
+veterinarians who perform modern ovary sparing spay and vasectomies. By
+offering a small discount for hormonally intact dogs we hope to encurage
+customers to avoid the procedure. We also prefer working with dogs that have
+healthy hormonal systems because they respond better to training.
 
-### $2,150 -- 21 Day Board and Train
-Our twenty one day program is a great for puppies and/or adult dogs because
-really for many dogs two weeks is not enough time for the training goals we
-have. Dogs in our three week program should be able master all skills needed
-for obedience and will leave with communication skills that allow owners to
-easily work with their dogs.
+### $2,500 -- 21 Day Basic Board and Train
+Our twenty one day basic board and train provides you dog with three weeks of
+training. Our training plan, methods, and goals will be based on you needs.
 
-### $110/day -- Custom Board and Train
-We can build custom packages for additional days of training outside of our
-normal packages. When we take two dogs from the same household we are able to
-provide a 30% discount on the cost of boarding or training the second dog.
+### $4,000 -- 42 Day Foundational Board and Train
+Our forty two day program provides a block of time where a trainer can work
+with your dog to establish a relationship and build communication skills. In
+this program the dog lives with the trainer for several days per week. When
+possible we want the owner to keep the dog in their home for two or three days
+per week. Depending how many days the dog spends with the owner the program
+will be betwee six and tweleve weeks since the program is based on the number
+of days the dog spends with the trainer.
 
-## Service Dog Training
-For an additional **$500** dollars, we will evaluate yo ur dogs and complete the
-paperwork needed for the [North Carolina Service Animal](https://www.ncdhhs.gov/divisions/vocational-rehabilitation-services/independent-living-people-disabilities/service-animals-people-disabilities) registration
-process provided the dog has an appropriate temperament and can be successfully
-trained to provide services that meet the legal requirements defined by the
-Americans with Disabilities Act. Within the evaluation period our trainers will
-test dogs for temperament in a variety of settings and work with the dog to
-resolve issues.
+### $4,250 -- 42 Day Advanced Board and Train
+Our forty two day advanced program is ideal for dogs that have completed our
+foundational training program. In this program we help the dog reach the level
+where they can pass the AKC Canine Good Citizen Test.
+
+### $12,000 -- 84 Day Service Dog Board and Train
+Our eighty four day service dog program is ideal for dogs that did well in our
+advanced progam or are already quite good but need to become service dogs. In
+this program we help your dog reach the point where they can provide high
+level services with trained behavior to assist disabled handlers.
+
+### $125/day -- Custom Board and Train
+We can build custom packages for outside of our pre defined packages. When we
+take two dogs from the same household we are able to provide a 30% discount on
+the cost of boarding or training the second dog. Give us a call so we can
+discuss your needs.
 
 ## Training for Dog Trainers
 Working in partnership with [K9Me.com](https://k9me.com) we provide

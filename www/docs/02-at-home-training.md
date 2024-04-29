@@ -13,38 +13,58 @@ with you and your dog in your home to work through issues specific to your dog.
 Our packages provide positive reinforcement training. We show you how to reward
 your dog and design a plan that will produce the best possible results. Most
 interactions the dog has with a trainer and/or the owner in this program are
-based on positive rewarding for good behavior and non-rewarding bad behavior.
-We may put the dog in an environmental context that includes prong collars,
-choke chains, and/or e-collars when we have shown the owner the proper use of
-these tools for behavior modification. 
+based on positive rewarding for good behavior and not-rewarding bad behavior.
+In cases where the dog benefits from other tools we show you the proper way to
+use prong collars, e-collars, slip leads, and other tools. Our primary focus is
+positive reinforcement but we are not opposed to using these tools as
+communication aids.
 
-### $70 -- One Hour Private Training
-Our one hour private training option helps you get started. In the hour we
-discuss the relationship you have with your dog and provide you with
-information so you can improve the way you communicate.
+Science published in recent decades shows that traditional spay/neuter
+procedures harm the health and behaivor of dogs. We provide a 10% discount for
+any intact dogs in our programs. We want to help you and your dog live your
+best lives. We are completely opposed to using traditional spay/neuter to alter
+behavior. In cases where owners need surgical steralization we can refer you to
+veterinarians who perform modern ovary sparing spay and vasectomies. By
+offering a small discount for hormonally intact dogs we hope to encurage
+customers to avoid the procedure. We also prefer working with dogs that have
+healthy hormonal systems because they respond better to training.
 
-### $375 -- Basic Training Package
-Our basic puppy or dog at home package helps you train your dog. The trainer
-visits you in your home to work with you and/or your dog. You and the trainer
-work to customize a package with four hours of training in your home. This
-training is usually delivered over the course of a one month period with
-meetings once per week in your home.
+### $30 -- 30 Minute Training Walk
+Our thirty minute training walk provides a dog walking service combined with
+training. The training will help your dog develop or improve loose leash
+walking skills. At various places along the walk your dog will be given small
+training sessions for Sit, Down, and other commands. In open areas your dog
+will have a chance to sniff and explore using a long line.
 
-### $625 -- Advanced Training Package
-Our advanced puppy or dog at home package helps you train your dog. The trainer
-visits you in your home to work with you and/or your dog. You and the trainer
-work to customize a package of eight hours of training in your home. This
-training is usually delivered over the course of a three month period.
+### $60 -- 40 Minute Private Training
+Our thirty minute private training option helps you with the relationship you have
+with your dog. We provide you and your dog coaching to improve your
+communication in the context of your training goals. We can for example help you
+with training your dog for cooperative nail trims, specific obedience, loose
+leash walking, impulse control, reactivity, etc.
+
+### $80 -- 60 Minute Private Training
+Our one hour private training option helps you with the relationship you have
+with your dog. We provide you and your dog coaching to improve your
+communication in the context of your training goals.
+
+### $525 -- Basic Training Package
+Our basic package helps you train your dog or puppy. The trainer visits you in
+your home to work with you and/or your dog. This training is delivered with
+meetings once per week in your for six weeks.
+
+### $525 -- Intermediate Training Package
+Our intermediate package is perfect for dogs that have completed our basic
+program. This training is delivered with meetings once per week in your for
+six weeks.
+
+### $525 -- Advanced Training Package
+Our advanced package is for dogs that have completed our basic program. This
+training is delivered with meetings once per week in your for six weeks.
 
 ### $?,??? -- Custom Training Package
-Custom sized training packages can be created provided they are larger than the
-advanced training package although really the price per hour will not change
-very much.
-
-### $1 per mile -- Travel Rate
-An additional charge of is applied for travel to and from the client's home.
-This charge depends on the address of the client and the address of the trainer
-and will be discussed when we enter an agreement for a package of training.
+Custom sized training packages can be created based on your needs so give us
+a call to discuss.
 
 Please call or text us at **919-809-9328** to learn more.
 
