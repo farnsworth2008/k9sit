@@ -17,7 +17,7 @@ our programs.
 </td>
 <td>
 
-**Mark Andres CEO, CTO, Dog Trainer**
+**Mark Andres Farnsworth CEO, CTO, Dog Trainer**
 _(Cheif Operating Officer, Cheif Technology Officer)_
 
 Mark is the founder of the **K9Me.com**, **K9Check.com**, and **K9Sit.com**
