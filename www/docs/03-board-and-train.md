@@ -54,11 +54,11 @@ offering a small discount for hormonally intact dogs we hope to encurage
 customers to avoid the procedure. We also prefer working with dogs that have
 healthy hormonal systems because they respond better to training.
 
-### $3,500 -- 21 Day Basic Board and Train
+### $2,500 -- 21 Day Basic Board and Train
 Our twenty one day basic board and train provides you dog with three weeks of
 training. Our training plan, methods, and goals will be based on you needs.
 
-### $5,000 -- 42 Day Foundational Board and Train
+### $4,000 -- 42 Day Foundational Board and Train
 Our forty two day program provides a block of time where a trainer can work
 with your dog to establish a relationship and build communication skills. In
 this program the dog lives with the trainer for several days per week. When
@@ -67,18 +67,18 @@ per week. Depending how many days the dog spends with the owner the program
 will be betwee six and tweleve weeks since the program is based on the number
 of days the dog spends with the trainer.
 
-### $5,250 -- 42 Day Advanced Board and Train
+### $4,000 -- 42 Day Advanced Board and Train
 Our forty two day advanced program is ideal for dogs that have completed our
 foundational training program. In this program we help the dog reach the level
 where they can pass the AKC Canine Good Citizen Test.
 
-### $14,000 -- 84 Day Service Dog Board and Train
+### $7,500 -- 84 Day Service Dog Board and Train
 Our eighty four day service dog program is ideal for dogs that did well in our
 advanced progam or are already quite good but need to become service dogs. In
 this program we help your dog reach the point where they can provide high
 level services with trained behavior to assist disabled handlers.
 
-### $175/day -- Custom Board and Train
+### $125/day -- Custom Board and Train
 We can build custom packages for outside of our pre defined packages. When we
 take two dogs from the same household we are able to provide a 30% discount on
 the cost of boarding or training the second dog. Give us a call so we can

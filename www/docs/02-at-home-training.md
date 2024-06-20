@@ -37,7 +37,7 @@ training sessions for Sit, Down, and other commands. In open areas your dog
 will have a chance to sniff and explore using a long line.
 
 ### $60 -- 40 Minute Private Training
-Our thirty minute private training option helps you with the relationship you have
+Our fourty minute private training option helps you with the relationship you have
 with your dog. We provide you and your dog coaching to improve your
 communication in the context of your training goals. We can for example help you
 with training your dog for cooperative nail trims, specific obedience, loose
@@ -48,19 +48,21 @@ Our one hour private training option helps you with the relationship you have
 with your dog. We provide you and your dog coaching to improve your
 communication in the context of your training goals.
 
-### $525 -- Basic Training Package
+### $375 -- Basic Training Package
 Our basic package helps you train your dog or puppy. The trainer visits you in
 your home to work with you and/or your dog. This training is delivered with
-meetings once per week in your for six weeks.
+meetings once per week in your for six weeks. Sessions are between 30 and 60
+minutes long.
 
-### $525 -- Intermediate Training Package
+### $375 -- Intermediate Training Package
 Our intermediate package is perfect for dogs that have completed our basic
 program. This training is delivered with meetings once per week in your for
-six weeks.
+six weeks. Sessions are between 30 and 60 minutes long.
 
-### $525 -- Advanced Training Package
+### $375 -- Advanced Training Package
 Our advanced package is for dogs that have completed our basic program. This
 training is delivered with meetings once per week in your for six weeks.
+Sessions are between 30 and 60 minutes long.
 
 ### $?,??? -- Custom Training Package
 Custom sized training packages can be created based on your needs so give us
