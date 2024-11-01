@@ -1,47 +1,6 @@
 #!/bin/bash
 set -e
 
-build_site() {
-  mkdir -p work
-  rm -rf "work/$1"
-  mkdir -p "work/$1"
-  cp -r template/site "work/$1"
-
-  cp "sites/$1/docusaurus.config.js" "work/$1/site"
-
-  if [ -e "sites/$1/components/HomepageFeatures/index.js" ]; then
-    cp "sites/$1/components/HomepageFeatures/index.js" "work/$1/site/src/components/HomepageFeatures/index.js"
-  fi
-
-  mkdir -p "sites/$1/blog"
-  mkdir -p "sites/$1/docs"
-  mkdir -p "sites/$1/static/img"
-  (
-    cd "sites/$1"
-    echo "INFO: Adding content for $1"
-    cp components/HomepageFeatures/* "../../../work/$1/site/src/components/HomepageFeatures" || true
-    cp ../../../www/blog/* "../../../work/$1/site/blog"
-    cp blog/* "../../../work/$1/site/blog" || true
-    cp ../../../www/docs/* "../../../work/$1/site/docs"
-    cp docs/* "../../../work/$1/site/docs" || true
-    cp ../../../www/static/img/* "../../../work/$1/site/static/img"
-  )
-  "work/$1/site/s3d-apply" "s3://$2"
-}
-
-build_site other/anywhere anywhere-k9sit-com-bull-230414
-build_site nc/raleigh raleigh-nc-k9sit-com-elk-230417
-
-# build_site nc/angier angier-nc-k9sit-com-akita-230610
-# build_site nc/apex apex-nc-k9sit-com-platypus-230420
-# build_site nc/cary cary-nc-k9sit-com-joey-230420
-# build_site nc/charlotte charlotte-nc-k9sit-com-shepherd-230417
-# build_site nc/durham durham-nc-k9sit-com-longhorn-230420
-# build_site nc/greensboro greensboro-nc-k9sit-com-starling-230420
-# build_site oh/kent kent-oh-k9sit-com-buffalo-230329
-
-k9check/s3d-apply
-k9me/s3d-apply
 www/s3d-apply
 
 rm -rf work
