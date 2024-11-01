@@ -8,7 +8,7 @@ locals {
 
 module "root_site" {
   count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.3.42"
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.4.1"
 
   domain      = local.group.domain
   favicon     = null
@@ -38,7 +38,7 @@ module "site_group" {
 
 module "www" {
   count  = 1
-  source = "github.com/s3d-club/terraform-aws-site?ref=v1.2.0"
+  source = "github.com/s3d-club/terraform-aws-site?ref=v1.4.1"
 
   domain      = local.group.domain
   favicon     = null
