@@ -197,28 +197,7 @@ const zipMap = {
   "28299": "Charlotte, NC",
 };
 
-const LocationList = [
-  {
-    title: 'Anywhere',
-    to: 'https://anywhere.k9sit.com',
-    Svg: require('@site/static/site/airdale.svg').default,
-    description: (
-      <>
-        <a href="https://anywhere.k9sit.com">Anywhere, USA</a>
-      </>
-    ),
-  },
-  {
-    title: 'Raleigh, NC',
-    to: 'https://raleigh-nc.k9sit.com',
-    Svg: require('@site/static/site/australian.svg').default,
-    description: (
-      <>
-        <a href="https://raleigh-nc.k9sit.com">Raleigh, NC</a>
-      </>
-    ),
-  },
-];
+const LocationList = [];
 
 let FilteredLocationList = LocationList.slice(0);
 
